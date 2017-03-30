@@ -1,0 +1,3583 @@
+Detected	Gain	Correct Count	Step Size	Subject Number	Height	Age	Sex	RA Name	Other
+True	1	1	0.05				Male		
+True	-0.95	2	0.05				Male		
+True	0.9	3	0.05				Male		
+True	-0.85	4	0.05				Male		
+False	0.8	4	0.05				Male		
+True	-0.7499999	5	0.05				Male		
+True	0.6999999	6	0.05				Male		
+True	-0.6499999	7	0.05				Male		
+True	0.5999999	8	0.05				Male		
+True	-0.5499999	9	0.05				Male		
+True	0.6	1	0.03				Male		
+True	-0.5700001	2	0.03				Male		
+True	0.5400001	3	0.03				Male		
+True	-0.5100001	4	0.03				Male		
+True	0.4800001	5	0.03				Male		
+True	-0.4500001	6	0.03				Male		
+True	0.4200001	7	0.03				Male		
+True	-0.3900001	8	0.03				Male		
+True	0.3600001	9	0.03				Male		
+True	-0.3300001	10	0.03				Male		
+True	0.36	1	0.018				Male		
+True	-0.342	2	0.018				Male		
+False	0.324	2	0.018				Male		
+True	-0.306	3	0.018				Male		
+True	0.288	4	0.018				Male		
+True	-0.27	5	0.018				Male		
+True	0.252	6	0.018				Male		
+True	-0.234	7	0.018				Male		
+True	0.216	8	0.018				Male		
+True	-0.198	9	0.018				Male		
+True	0.216	1	0.0108				Male		
+True	-0.2052	2	0.0108				Male		
+True	0.1944	3	0.0108				Male		
+True	-0.1836	4	0.0108				Male		
+True	0.1728	5	0.0108				Male		
+False	-0.162	5	0.0108				Male		
+False	0.1512	5	0.0108				Male		
+False	-0.1404	5	0.0108				Male		
+True	0.1296	6	0.0108				Male		
+True	-0.1188	7	0.0108				Male		
+False	0.1296	0	0.006480001				Male		
+False	-0.12312	0	0.006480001				Male		
+True	0.11664	1	0.006480001				Male		
+True	-0.11016	2	0.006480001				Male		
+True	0.10368	3	0.006480001				Male		
+False	-0.09720001	3	0.006480001				Male		
+True	0.09072001	4	0.006480001				Male		
+True	-0.08424001	5	0.006480001				Male		
+True	0.07776001	6	0.006480001				Male		
+False	-0.07128001	6	0.006480001				Male		
+False	0.1296	0	0.006480001				Male		
+False	-0.12312	0	0.006480001				Male		
+True	0.11664	1	0.006480001				Male		
+True	-0.11016	2	0.006480001				Male		
+True	0.10368	3	0.006480001				Male		
+True	-0.09720001	4	0.006480001				Male		
+False	0.09072001	4	0.006480001				Male		
+False	-0.08424001	4	0.006480001				Male		
+False	0.07776001	4	0.006480001				Male		
+True	-0.07128001	5	0.006480001				Male		
+True	0.1296	1	0.006480001				Male		
+True	-0.12312	2	0.006480001				Male		
+False	0.11664	2	0.006480001				Male		
+True	-0.11016	3	0.006480001				Male		
+False	0.10368	3	0.006480001				Male		
+True	-0.09720001	4	0.006480001				Male		
+False	0.09072001	4	0.006480001				Male		
+True	-0.08424001	5	0.006480001				Male		
+False	0.07776001	5	0.006480001				Male		
+True	-0.07128001	6	0.006480001				Male		
+True	0.1296	1	0.006480001				Male		
+False	-0.12312	1	0.006480001				Male		
+True	0.11664	2	0.006480001				Male		
+True	-0.11016	3	0.006480001				Male		
+False	0.10368	3	0.006480001				Male		
+False	-0.09720001	3	0.006480001				Male		
+False	0.09072001	3	0.006480001				Male		
+True	-0.08424001	4	0.006480001				Male		
+True	0.07776001	5	0.006480001				Male		
+False	-0.07128001	5	0.006480001				Male		
+True	-1	1	0.05	1	72	21	Male	Ryan	Test data
+False	1	0	0.05	2	41	21	Male	bob	test
+False	-0.95	0	0.05	2	41	21	Male	bob	test
+True	0.9	1	0.05	2	41	21	Male	bob	test
+True	-0.85	2	0.05	2	41	21	Male	bob	test
+False	0.8	2	0.05	2	41	21	Male	bob	test
+False	-0.7499999	2	0.05	2	41	21	Male	bob	test
+True	0.6999999	3	0.05	2	41	21	Male	bob	test
+False	-0.6499999	3	0.05	2	41	21	Male	bob	test
+False	0.5999999	3	0.05	2	41	21	Male	bob	test
+False	-0.5499999	3	0.05	2	41	21	Male	bob	test
+True	1	1	0.05	2	41	21	Male	bob	test
+True	-0.95	2	0.05	2	41	21	Male	bob	test
+False	0.9	2	0.05	2	41	21	Male	bob	test
+True	-0.85	3	0.05	2	41	21	Male	bob	test
+True	0.8	4	0.05	2	41	21	Male	bob	test
+True	-0.7499999	5	0.05	2	41	21	Male	bob	test
+False	0.6999999	5	0.05	2	41	21	Male	bob	test
+True	-0.6499999	6	0.05	2	41	21	Male	bob	test
+True	0.5999999	7	0.05	2	41	21	Male	bob	test
+False	-0.5499999	7	0.05	2	41	21	Male	bob	test
+True	0.6	1	0.03	2	41	21	Male	bob	test
+True	-0.5700001	2	0.03	2	41	21	Male	bob	test
+False	0.5400001	2	0.03	2	41	21	Male	bob	test
+True	-0.5100001	3	0.03	2	41	21	Male	bob	test
+True	0.4800001	4	0.03	2	41	21	Male	bob	test
+True	-0.4500001	5	0.03	2	41	21	Male	bob	test
+False	0.4200001	5	0.03	2	41	21	Male	bob	test
+True	-0.3900001	6	0.03	2	41	21	Male	bob	test
+False	0.3600001	6	0.03	2	41	21	Male	bob	test
+True	-0.3300001	7	0.03	2	41	21	Male	bob	test
+False	0.36	0	0.018	2	41	21	Male	bob	test
+True	-0.342	1	0.018	2	41	21	Male	bob	test
+True	0.324	2	0.018	2	41	21	Male	bob	test
+True	-0.306	3	0.018	2	41	21	Male	bob	test
+True	0.288	4	0.018	2	41	21	Male	bob	test
+True	-0.27	5	0.018	2	41	21	Male	bob	test
+False	0.252	5	0.018	2	41	21	Male	bob	test
+False	-0.234	5	0.018	2	41	21	Male	bob	test
+False	0.216	5	0.018	2	41	21	Male	bob	test
+False	-0.198	5	0.018	2	41	21	Male	bob	test
+False	0.36	0	0.018	2	41	21	Male	bob	test
+False	-0.342	0	0.018	2	41	21	Male	bob	test
+False	0.324	0	0.018	2	41	21	Male	bob	test
+True	-0.306	1	0.018	2	41	21	Male	bob	test
+False	0.288	1	0.018	2	41	21	Male	bob	test
+False	-0.27	1	0.018	2	41	21	Male	bob	test
+False	0.252	1	0.018	2	41	21	Male	bob	test
+False	-0.234	1	0.018	2	41	21	Male	bob	test
+False	0.216	1	0.018	2	41	21	Male	bob	test
+True	-0.198	2	0.018	2	41	21	Male	bob	test
+False	0.36	0	0.018	2	41	21	Male	bob	test
+False	-0.342	0	0.018	2	41	21	Male	bob	test
+False	0.324	0	0.018	2	41	21	Male	bob	test
+True	-0.306	1	0.018	2	41	21	Male	bob	test
+False	0.288	1	0.018	2	41	21	Male	bob	test
+False	-0.27	1	0.018	2	41	21	Male	bob	test
+False	0.252	1	0.018	2	41	21	Male	bob	test
+True	-0.234	2	0.018	2	41	21	Male	bob	test
+True	0.216	3	0.018	2	41	21	Male	bob	test
+True	-0.198	4	0.018	2	41	21	Male	bob	test
+True	1	1	0.05	Test	64	22	Female	Anirwin	Y
+True	-0.95	2	0.05	Test	64	22	Female	Anirwin	Y
+True	0.9	3	0.05	Test	64	22	Female	Anirwin	Y
+True	-0.85	4	0.05	Test	64	22	Female	Anirwin	Y
+True	0.8	5	0.05	Test	64	22	Female	Anirwin	Y
+True	-0.7499999	6	0.05	Test	64	22	Female	Anirwin	Y
+True	0.6999999	7	0.05	Test	64	22	Female	Anirwin	Y
+True	-0.6499999	8	0.05	Test	64	22	Female	Anirwin	Y
+True	1	1	0.05	test	test	test	Female	test	
+True	-1	1	0.05	test	test	test	Female	test	
+True	0.95	2	0.05	test	test	test	Female	test	
+False	1	0	0.05	Test	Test	Test	Female	Test	
+True	-0.95	1	0.05	Test	Test	Test	Female	Test	
+False	0.9	1	0.05	Test	Test	Test	Female	Test	
+True	-0.85	2	0.05	Test	Test	Test	Female	Test	
+False	0.8	2	0.05	Test	Test	Test	Female	Test	
+True	-0.7499999	3	0.05	Test	Test	Test	Female	Test	
+True	0.6999999	4	0.05	Test	Test	Test	Female	Test	
+True	-0.6499999	5	0.05	Test	Test	Test	Female	Test	
+True	0.5999999	6	0.05	Test	Test	Test	Female	Test	
+True	-0.5499999	7	0.05	Test	Test	Test	Female	Test	
+True	0.6	1	0.03	Test	Test	Test	Female	Test	
+True	-0.5700001	2	0.03	Test	Test	Test	Female	Test	
+True	0.5400001	3	0.03	Test	Test	Test	Female	Test	
+True	-0.5100001	4	0.03	Test	Test	Test	Female	Test	
+True	0.4800001	5	0.03	Test	Test	Test	Female	Test	
+False	-0.4500001	5	0.03	Test	Test	Test	Female	Test	
+True	0.4200001	6	0.03	Test	Test	Test	Female	Test	
+True	-0.3900001	7	0.03	Test	Test	Test	Female	Test	
+True	0.3600001	8	0.03	Test	Test	Test	Female	Test	
+True	-0.3300001	9	0.03	Test	Test	Test	Female	Test	
+True	0.36	1	0.018	Test	Test	Test	Female	Test	
+True	-0.342	2	0.018	Test	Test	Test	Female	Test	
+False	0.324	2	0.018	Test	Test	Test	Female	Test	
+True	-0.306	3	0.018	Test	Test	Test	Female	Test	
+True	0.288	4	0.018	Test	Test	Test	Female	Test	
+True	-0.27	5	0.018	Test	Test	Test	Female	Test	
+False	0.252	5	0.018	Test	Test	Test	Female	Test	
+True	-0.234	6	0.018	Test	Test	Test	Female	Test	
+True	0.216	7	0.018	Test	Test	Test	Female	Test	
+True	-1	1	0.05				Male		
+False	0.95	1	0.05				Male		
+True	-0.9	2	0.05				Male		
+True	0.85	3	0.05				Male		
+False	-0.8	3	0.05				Male		
+False	0.7499999	3	0.05				Male		
+False	-0.6999999	3	0.05				Male		
+False	0.6499999	3	0.05				Male		
+False	-0.5999999	3	0.05				Male		
+False	0.5499999	3	0.05				Male		
+False	-1	0	0.05				Male		
+False	0.95	0	0.05				Male		
+False	-0.9	0	0.05				Male		
+True	0.85	1	0.05				Male		
+True	-0.8	2	0.05				Male		
+True	0.7499999	3	0.05				Male		
+True	-0.6999999	4	0.05				Male		
+True	0.6499999	5	0.05				Male		
+True	-0.5999999	6	0.05				Male		
+True	0.5499999	7	0.05				Male		
+False	-0.6	0	0.03				Male		
+True	0.5700001	1	0.03				Male		
+True	-0.5400001	2	0.03				Male		
+True	0.5100001	3	0.03				Male		
+False	-0.4800001	3	0.03				Male		
+True	0.4500001	4	0.03				Male		
+False	-0.4200001	4	0.03				Male		
+True	0.3900001	5	0.03				Male		
+False	-0.3600001	5	0.03				Male		
+False	0.3300001	5	0.03				Male		
+False	-0.6	0	0.03				Male		
+True	0.5700001	1	0.03				Male		
+False	-0.5400001	1	0.03				Male		
+False	0.5100001	1	0.03				Male		
+False	-0.4800001	1	0.03				Male		
+True	0.4500001	2	0.03				Male		
+False	-0.4200001	2	0.03				Male		
+False	0.3900001	2	0.03				Male		
+True	-0.3600001	3	0.03				Male		
+True	0.3300001	4	0.03				Male		
+True	-0.6	1	0.03				Male		
+True	0.5700001	2	0.03				Male		
+True	-0.5400001	3	0.03				Male		
+False	0.5100001	3	0.03				Male		
+True	-0.4800001	4	0.03				Male		
+True	0.4500001	5	0.03				Male		
+True	-0.4200001	6	0.03				Male		
+True	0.3900001	7	0.03				Male		
+False	-0.3600001	7	0.03				Male		
+False	0.3300001	7	0.03				Male		
+True	-0.36	1	0.018				Male		
+True	0.342	2	0.018				Male		
+False	-0.324	2	0.018				Male		
+False	0.306	2	0.018				Male		
+False	-0.288	2	0.018				Male		
+True	0.27	3	0.018				Male		
+False	-0.252	3	0.018				Male		
+True	0.234	4	0.018				Male		
+False	-0.216	4	0.018				Male		
+False	0.198	4	0.018				Male		
+True	0.5	1	0.05				Male		
+True	-0.475	2	0.05				Male		
+True	0.45	3	0.05				Male		
+True	-0.425	4	0.05				Male		
+False	0.4	4	0.05				Male		
+True	-0.375	5	0.05				Male		
+False	0.35	5	0.05				Male		
+True	-0.325	6	0.05				Male		
+False	0.3	6	0.05				Male		
+True	-0.2749999	7	0.05				Male		
+True	0.3	1	0.03				Male		
+True	-0.285	2	0.03				Male		
+True	0.27	3	0.03				Male		
+False	-0.2550001	3	0.03				Male		
+True	0.2400001	4	0.03				Male		
+False	-0.2250001	4	0.03				Male		
+False	0.2100001	4	0.03				Male		
+False	-0.1950001	4	0.03				Male		
+True	0.1800001	5	0.03				Male		
+True	-0.1650001	6	0.03				Male		
+True	0.3	1	0.03				Male		
+True	-0.285	2	0.03				Male		
+False	0.27	2	0.03				Male		
+False	-0.2550001	2	0.03				Male		
+True	0.2400001	3	0.03				Male		
+True	-0.2250001	4	0.03				Male		
+False	0.2100001	4	0.03				Male		
+True	-0.1950001	5	0.03				Male		
+False	0.1800001	5	0.03				Male		
+False	-0.1650001	5	0.03				Male		
+True	0.3	1	0.03				Male		
+True	-0.285	2	0.03				Male		
+True	0.27	3	0.03				Male		
+False	-0.2550001	3	0.03				Male		
+True	0.2400001	4	0.03				Male		
+False	-0.2250001	4	0.03				Male		
+False	0.2100001	4	0.03				Male		
+True	-0.1950001	5	0.03				Male		
+False	0.1800001	5	0.03				Male		
+False	-0.1650001	5	0.03				Male		
+True	0.3	1	0.03				Male		
+True	-0.285	2	0.03				Male		
+False	0.27	2	0.03				Male		
+False	-0.2550001	2	0.03				Male		
+False	0.2400001	2	0.03				Male		
+False	-0.2250001	2	0.03				Male		
+True	0.2100001	3	0.03				Male		
+False	-0.1950001	3	0.03				Male		
+False	0.1800001	3	0.03				Male		
+False	-0.1650001	3	0.03				Male		
+True	0.5	1	0.05				Male		
+True	1	1	0.05				Male		
+False	1	0	0.05				Male		
+False	-0.95	0	0.05				Male		
+False	0.9	0	0.05				Male		
+True	-0.85	1	0.05				Male		
+True	0.8	2	0.05				Male		
+False	-0.7499999	2	0.05				Male		
+False	0.6999999	2	0.05				Male		
+True	-0.6499999	3	0.05				Male		
+False	0.5999999	3	0.05				Male		
+True	-0.5499999	4	0.05				Male		
+False	1	0	0.05				Male		
+False	-0.95	0	0.05				Male		
+True	0.9	1	0.05				Male		
+False	-0.85	1	0.05				Male		
+False	0.8	1	0.05				Male		
+False	-0.7499999	1	0.05				Male		
+True	0.6999999	2	0.05				Male		
+False	-0.6499999	2	0.05				Male		
+False	0.5999999	2	0.05				Male		
+False	-0.5499999	2	0.05				Male		
+False	1	0	0.05				Male		
+True	-0.95	1	0.05				Male		
+True	0.9	2	0.05				Male		
+False	-0.85	2	0.05				Male		
+True	0.8	3	0.05				Male		
+True	-0.7499999	4	0.05				Male		
+True	0.6999999	5	0.05				Male		
+False	-0.6499999	5	0.05				Male		
+False	0.5999999	5	0.05				Male		
+True	-0.5499999	6	0.05				Male		
+False	1	0	0.05				Male		
+True	-0.95	1	0.05				Male		
+False	0.9	1	0.05				Male		
+True	-0.85	2	0.05				Male		
+True	0.8	3	0.05				Male		
+True	-0.7499999	4	0.05				Male		
+True	0.6999999	5	0.05				Male		
+False	-0.6499999	5	0.05				Male		
+True	0.5999999	6	0.05				Male		
+False	-0.5499999	6	0.05				Male		
+True	1	1	0.05				Male		
+False	-0.95	1	0.05				Male		
+False	0.9	1	0.05				Male		
+True	-0.85	2	0.05				Male		
+False	0.8	2	0.05				Male		
+False	-0.7499999	2	0.05				Male		
+True	0.6999999	3	0.05				Male		
+True	-0.6499999	4	0.05				Male		
+True	0.5999999	5	0.05				Male		
+True	-0.5499999	6	0.05				Male		
+True	1	1	0.05				Male		
+True	-0.95	2	0.05				Male		
+False	0.9	2	0.05				Male		
+False	-0.85	2	0.05				Male		
+False	0.8	2	0.05				Male		
+True	-0.7499999	3	0.05				Male		
+False	0.6999999	3	0.05				Male		
+False	-0.6499999	3	0.05				Male		
+False	0.5999999	3	0.05				Male		
+True	-0.5499999	4	0.05				Male		
+True	1	1	0.05				Male		
+True	-0.95	2	0.05				Male		
+True	0.9	3	0.05				Male		
+True	-0.85	4	0.05				Male		
+False	0.8	4	0.05				Male		
+False	-0.7499999	4	0.05				Male		
+False	0.6999999	4	0.05				Male		
+False	-0.6499999	4	0.05				Male		
+False	0.5999999	4	0.05				Male		
+False	-0.5499999	4	0.05				Male		
+False	1	0	0.05				Male		
+False	-0.95	0	0.05				Male		
+False	0.9	0	0.05				Male		
+False	-0.85	0	0.05				Male		
+False	0.8	0	0.05				Male		
+True	-0.7499999	1	0.05				Male		
+False	0.6999999	1	0.05				Male		
+True	-0.6499999	2	0.05				Male		
+False	0.5999999	2	0.05				Male		
+True	-0.5499999	3	0.05				Male		
+False	1	0	0.05				Male		
+True	-0.95	1	0.05				Male		
+False	0.9	1	0.05				Male		
+True	-0.85	2	0.05				Male		
+True	0.8	3	0.05				Male		
+True	-0.7499999	4	0.05				Male		
+True	0.6999999	5	0.05				Male		
+True	-0.6499999	6	0.05				Male		
+True	0.5999999	7	0.05				Male		
+True	-0.5499999	8	0.05				Male		
+True	0.6	1	0.03				Male		
+False	-0.5700001	1	0.03				Male		
+False	0.5400001	1	0.03				Male		
+True	-0.5100001	2	0.03				Male		
+True	0.4800001	3	0.03				Male		
+False	-0.4500001	3	0.03				Male		
+False	0.4200001	3	0.03				Male		
+False	-0.3900001	3	0.03				Male		
+True	0.3600001	4	0.03				Male		
+False	-0.3300001	4	0.03				Male		
+True	0.6	1	0.03				Male		
+False	-0.5700001	1	0.03				Male		
+True	0.5400001	2	0.03				Male		
+False	-0.5100001	2	0.03				Male		
+True	0.4800001	3	0.03				Male		
+True	-0.4500001	4	0.03				Male		
+True	0.4200001	5	0.03				Male		
+False	-0.3900001	5	0.03				Male		
+False	0.3600001	5	0.03				Male		
+False	-0.3300001	5	0.03				Male		
+True	0.6	1	0.03				Male		
+False	-0.5700001	1	0.03				Male		
+False	0.5400001	1	0.03				Male		
+True	-0.5100001	2	0.03				Male		
+True	0.4800001	3	0.03				Male		
+False	-0.4500001	3	0.03				Male		
+True	0.4200001	4	0.03				Male		
+True	-0.3900001	5	0.03				Male		
+False	0.3600001	5	0.03				Male		
+False	-0.3300001	5	0.03				Male		
+False	0.6	0	0.03				Male		
+True	-0.5700001	1	0.03				Male		
+True	0.5400001	2	0.03				Male		
+True	-0.5100001	3	0.03				Male		
+True	0.4800001	4	0.03				Male		
+True	-0.4500001	5	0.03				Male		
+True	0.4200001	6	0.03				Male		
+False	-0.3900001	6	0.03				Male		
+True	0.3600001	7	0.03				Male		
+True	-0.3300001	8	0.03				Male		
+True	0.36	1	0.018				Male		
+False	-0.342	1	0.018				Male		
+False	0.324	1	0.018				Male		
+False	-0.306	1	0.018				Male		
+False	0.288	1	0.018				Male		
+True	-0.27	2	0.018				Male		
+False	0.252	2	0.018				Male		
+True	-0.234	3	0.018				Male		
+False	0.216	3	0.018				Male		
+True	-0.198	4	0.018				Male		
+True	0.1	1	0.05				Male		
+True	-0.095	2	0.05				Male		
+False	0.09	2	0.05				Male		
+True	-0.085	3	0.05				Male		
+True	0.08	4	0.05				Male		
+True	-0.075	5	0.05				Male		
+True	0.06999999	6	0.05				Male		
+True	-0.06499999	7	0.05				Male		
+False	0.05999999	7	0.05				Male		
+True	-0.05499999	8	0.05				Male		
+True	0.06	1	0.03				Male		
+True	-0.05700001	2	0.03				Male		
+False	0.05400001	2	0.03				Male		
+True	-0.05100001	3	0.03				Male		
+True	0.04800001	4	0.03				Male		
+True	-0.04500001	5	0.03				Male		
+True	0.04200001	6	0.03				Male		
+False	-0.03900001	6	0.03				Male		
+True	0.03600001	7	0.03				Male		
+False	-0.03300001	7	0.03				Male		
+False	0.036	0	0.018				Male		
+True	-0.0342	1	0.018				Male		
+False	0.0324	1	0.018				Male		
+False	-0.0306	1	0.018				Male		
+True	0.0288	2	0.018				Male		
+False	-0.027	2	0.018				Male		
+False	0.0252	2	0.018				Male		
+False	-0.0234	2	0.018				Male		
+False	0.0216	2	0.018				Male		
+True	-0.0198	3	0.018				Male		
+False	0.036	0	0.018				Male		
+True	-0.0342	1	0.018				Male		
+True	0.0324	2	0.018				Male		
+True	-0.0306	3	0.018				Male		
+True	0.0288	4	0.018				Male		
+False	-0.027	4	0.018				Male		
+False	0.0252	4	0.018				Male		
+False	-0.0234	4	0.018				Male		
+False	0.0216	4	0.018				Male		
+True	-0.0198	5	0.018				Male		
+False	0.036	0	0.018				Male		
+True	-0.0342	1	0.018				Male		
+False	0.0324	1	0.018				Male		
+False	-0.0306	1	0.018				Male		
+False	0.0288	1	0.018				Male		
+False	-0.027	1	0.018				Male		
+True	0.0252	2	0.018				Male		
+True	-0.0234	3	0.018				Male		
+True	0.0216	4	0.018				Male		
+True	-0.0198	5	0.018				Male		
+True	0.036	1	0.018				Male		
+False	-0.0342	1	0.018				Male		
+True	0.0324	2	0.018				Male		
+False	-0.0306	2	0.018				Male		
+True	0.0288	3	0.018				Male		
+False	-0.027	3	0.018				Male		
+False	0.0252	3	0.018				Male		
+True	-0.0234	4	0.018				Male		
+False	0.0216	4	0.018				Male		
+True	-0.0198	5	0.018				Male		
+False	0.1	0	0.05				Male		
+False	0.1	0	0.05				Male		
+False	-0.095	0	0.05				Male		
+True	0.09	1	0.05				Male		
+False	0.1	0	0.05				Male		
+True	-0.095	1	0.05				Male		
+False	0.09	1	0.05				Male		
+False	-0.085	1	0.05				Male		
+False	0.08	1	0.05				Male		
+True	-0.075	2	0.05				Male		
+True	0.06999999	3	0.05				Male		
+True	-0.06499999	4	0.05				Male		
+False	0.05999999	4	0.05				Male		
+False	-0.05499999	4	0.05				Male		
+False	0.1	0	0.05				Male		
+True	-0.095	1	0.05				Male		
+False	0.09	1	0.05				Male		
+False	-0.085	1	0.05				Male		
+False	0.08	1	0.05				Male		
+True	-0.075	2	0.05				Male		
+False	0.06999999	2	0.05				Male		
+False	-0.06499999	2	0.05				Male		
+True	0.05999999	3	0.05				Male		
+True	-0.1	1	0.05				Male		
+True	0.095	2	0.05				Male		
+True	-0.09	3	0.05				Male		
+True	0.085	4	0.05				Male		
+False	-1	0	0.05				Male		
+False	0.95	0	0.05				Male		
+False	-0.9	0	0.05				Male		
+True	0.85	1	0.05				Male		
+False	-0.8	1	0.05				Male		
+True	0.7499999	2	0.05				Male		
+True	-0.6999999	3	0.05				Male		
+True	0.6499999	4	0.05				Male		
+False	-0.5999999	4	0.05				Male		
+True	0.5499999	5	0.05				Male		
+False	-1	0	0.05				Male		
+False	0.95	0	0.05				Male		
+True	-1	1	0.05	1	16	21	Male	Ryan	Test with veronica
+True	0.95	2	0.05	1	16	21	Male	Ryan	Test with veronica
+True	-0.9	3	0.05	1	16	21	Male	Ryan	Test with veronica
+True	0.85	4	0.05	1	16	21	Male	Ryan	Test with veronica
+True	-0.8	5	0.05	1	16	21	Male	Ryan	Test with veronica
+True	0.7499999	6	0.05	1	16	21	Male	Ryan	Test with veronica
+True	-0.6999999	7	0.05	1	16	21	Male	Ryan	Test with veronica
+True	0.6499999	8	0.05	1	16	21	Male	Ryan	Test with veronica
+True	-0.5999999	9	0.05	1	16	21	Male	Ryan	Test with veronica
+True	0.5499999	10	0.05	1	16	21	Male	Ryan	Test with veronica
+True	-0.6	1	0.03	1	16	21	Male	Ryan	Test with veronica
+True	0.5700001	2	0.03	1	16	21	Male	Ryan	Test with veronica
+True	-0.5400001	3	0.03	1	16	21	Male	Ryan	Test with veronica
+True	0.5100001	4	0.03	1	16	21	Male	Ryan	Test with veronica
+True	-0.4800001	5	0.03	1	16	21	Male	Ryan	Test with veronica
+True	0.4500001	6	0.03	1	16	21	Male	Ryan	Test with veronica
+True	-1	1	0.05	1	69	19	Male	Eva	
+False	0.95	1	0.05	1	69	19	Male	Eva	
+True	-0.9	2	0.05	1	69	19	Male	Eva	
+True	0.85	3	0.05	1	69	19	Male	Eva	
+True	-0.8	4	0.05	1	69	19	Male	Eva	
+False	0.7499999	4	0.05	1	69	19	Male	Eva	
+True	-0.6999999	5	0.05	1	69	19	Male	Eva	
+True	0.6499999	6	0.05	1	69	19	Male	Eva	
+True	-0.5999999	7	0.05	1	69	19	Male	Eva	
+True	0.5499999	8	0.05	1	69	19	Male	Eva	
+True	-0.6	1	0.03	1	69	19	Male	Eva	
+True	0.5700001	2	0.03	1	69	19	Male	Eva	
+True	-0.5400001	3	0.03	1	69	19	Male	Eva	
+True	0.5100001	4	0.03	1	69	19	Male	Eva	
+True	-0.4800001	5	0.03	1	69	19	Male	Eva	
+True	0.4500001	6	0.03	1	69	19	Male	Eva	
+True	-0.4200001	7	0.03	1	69	19	Male	Eva	
+True	0.3900001	8	0.03	1	69	19	Male	Eva	
+True	-0.3600001	9	0.03	1	69	19	Male	Eva	
+True	0.3300001	10	0.03	1	69	19	Male	Eva	
+True	-0.36	1	0.018	1	69	19	Male	Eva	
+True	0.342	2	0.018	1	69	19	Male	Eva	
+True	-0.324	3	0.018	1	69	19	Male	Eva	
+False	0.306	3	0.018	1	69	19	Male	Eva	
+True	-0.288	4	0.018	1	69	19	Male	Eva	
+False	0.27	4	0.018	1	69	19	Male	Eva	
+True	-0.252	5	0.018	1	69	19	Male	Eva	
+True	0.234	6	0.018	1	69	19	Male	Eva	
+True	-0.216	7	0.018	1	69	19	Male	Eva	
+False	0.198	7	0.018	1	69	19	Male	Eva	
+True	-0.216	1	0.0108	1	69	19	Male	Eva	
+False	0.2052	1	0.0108	1	69	19	Male	Eva	
+True	-0.1944	2	0.0108	1	69	19	Male	Eva	
+True	0.1836	3	0.0108	1	69	19	Male	Eva	
+True	-0.1728	4	0.0108	1	69	19	Male	Eva	
+True	0.162	5	0.0108	1	69	19	Male	Eva	
+True	-0.1512	6	0.0108	1	69	19	Male	Eva	
+True	0.1404	7	0.0108	1	69	19	Male	Eva	
+False	-0.1296	7	0.0108	1	69	19	Male	Eva	
+True	0.1188	8	0.0108	1	69	19	Male	Eva	
+True	-0.1296	1	0.006480001	1	69	19	Male	Eva	
+False	0.12312	1	0.006480001	1	69	19	Male	Eva	
+True	-0.11664	2	0.006480001	1	69	19	Male	Eva	
+True	0.11016	3	0.006480001	1	69	19	Male	Eva	
+True	-0.10368	4	0.006480001	1	69	19	Male	Eva	
+True	0.09720001	5	0.006480001	1	69	19	Male	Eva	
+True	-0.09072001	6	0.006480001	1	69	19	Male	Eva	
+False	0.08424001	6	0.006480001	1	69	19	Male	Eva	
+True	-0.07776001	7	0.006480001	1	69	19	Male	Eva	
+False	0.07128001	7	0.006480001	1	69	19	Male	Eva	
+False	-0.07776001	0	0.003888001	1	69	19	Male	Eva	
+False	0.07387201	0	0.003888001	1	69	19	Male	Eva	
+False	-0.069984	0	0.003888001	1	69	19	Male	Eva	
+False	0.066096	0	0.003888001	1	69	19	Male	Eva	
+True	-0.062208	1	0.003888001	1	69	19	Male	Eva	
+True	0.05832	2	0.003888001	1	69	19	Male	Eva	
+False	-0.054432	2	0.003888001	1	69	19	Male	Eva	
+True	0.050544	3	0.003888001	1	69	19	Male	Eva	
+True	-0.046656	4	0.003888001	1	69	19	Male	Eva	
+True	0.042768	5	0.003888001	1	69	19	Male	Eva	
+True	-0.07776001	1	0.003888001	1	69	19	Male	Eva	
+False	0.07387201	1	0.003888001	1	69	19	Male	Eva	
+True	-0.069984	2	0.003888001	1	69	19	Male	Eva	
+True	0.066096	3	0.003888001	1	69	19	Male	Eva	
+True	-0.062208	4	0.003888001	1	69	19	Male	Eva	
+True	0.05832	5	0.003888001	1	69	19	Male	Eva	
+True	-0.054432	6	0.003888001	1	69	19	Male	Eva	
+False	0.050544	6	0.003888001	1	69	19	Male	Eva	
+True	-0.046656	7	0.003888001	1	69	19	Male	Eva	
+False	0.042768	7	0.003888001	1	69	19	Male	Eva	
+False	-0.04665601	0	0.002332801	1	69	19	Male	Eva	
+True	0.04432321	1	0.002332801	1	69	19	Male	Eva	
+True	-0.04199041	2	0.002332801	1	69	19	Male	Eva	
+False	0.03965761	2	0.002332801	1	69	19	Male	Eva	
+False	-0.03732481	2	0.002332801	1	69	19	Male	Eva	
+False	0.03499201	2	0.002332801	1	69	19	Male	Eva	
+True	-0.03265921	3	0.002332801	1	69	19	Male	Eva	
+True	0.03032641	4	0.002332801	1	69	19	Male	Eva	
+False	-0.02799361	4	0.002332801	1	69	19	Male	Eva	
+True	0.02566081	5	0.002332801	1	69	19	Male	Eva	
+True	-0.04665601	1	0.002332801	1	69	19	Male	Eva	
+True	0.04432321	2	0.002332801	1	69	19	Male	Eva	
+False	-0.04199041	2	0.002332801	1	69	19	Male	Eva	
+True	0.03965761	3	0.002332801	1	69	19	Male	Eva	
+False	-0.03732481	3	0.002332801	1	69	19	Male	Eva	
+False	0.03499201	3	0.002332801	1	69	19	Male	Eva	
+True	-0.03265921	4	0.002332801	1	69	19	Male	Eva	
+True	0.03032641	5	0.002332801	1	69	19	Male	Eva	
+False	-0.02799361	5	0.002332801	1	69	19	Male	Eva	
+False	0.02566081	5	0.002332801	1	69	19	Male	Eva	
+False	-0.04665601	0	0.002332801	1	69	19	Male	Eva	
+False	0.04432321	0	0.002332801	1	69	19	Male	Eva	
+False	-0.04199041	0	0.002332801	1	69	19	Male	Eva	
+True	0.03965761	1	0.002332801	1	69	19	Male	Eva	
+False	-0.03732481	1	0.002332801	1	69	19	Male	Eva	
+False	0.03499201	1	0.002332801	1	69	19	Male	Eva	
+True	-0.03265921	2	0.002332801	1	69	19	Male	Eva	
+True	0.03032641	3	0.002332801	1	69	19	Male	Eva	
+False	-0.02799361	3	0.002332801	1	69	19	Male	Eva	
+False	0.02566081	3	0.002332801	1	69	19	Male	Eva	
+True	1	1	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.95	2	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.9	3	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.85	4	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.8	5	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.7499999	6	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.6999999	6	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.6499999	7	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.5999999	8	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.5499999	9	0.05	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.6	0	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.5700001	1	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.5400001	1	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.5100001	2	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.4800001	3	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.4500001	4	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.4200001	5	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.3900001	6	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.3600001	6	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.3300001	7	0.03	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.36	0	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.342	1	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.324	1	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.306	2	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.288	3	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.27	4	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.252	5	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.234	6	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.216	6	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.198	7	0.018	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.216	0	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.2052	1	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.1944	1	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.1836	2	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.1728	2	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.162	3	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.1512	4	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.1404	5	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.1296	6	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.1188	7	0.0108	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.1296	1	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.12312	2	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.11664	2	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.11016	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.10368	4	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.09720001	4	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.09072001	5	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.08424001	6	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.07776001	6	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.07128001	6	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.1296	0	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.12312	1	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.11664	2	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.11016	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.10368	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.09720001	4	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.09072001	4	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.08424001	5	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.07776001	5	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.07128001	5	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.1296	1	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.12312	2	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.11664	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.11016	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.10368	3	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.09720001	4	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.09072001	5	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.08424001	6	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.07776001	7	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.07128001	8	0.006480001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.07776001	1	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.07387201	2	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.069984	2	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.066096	3	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.062208	3	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.05832	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.054432	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.050544	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.046656	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.042768	5	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.07776001	1	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.07387201	1	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.069984	2	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.066096	3	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	0.062208	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	-0.05832	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.054432	4	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.050544	5	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+False	0.046656	5	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	-0.042768	6	0.003888001	2	5 ft 4 in	20	Female	Aaron	ok for real this time
+True	1	1	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.95	2	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.9	3	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.85	4	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.8	5	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.7499999	6	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.6999999	7	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.6499999	8	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.5999999	9	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.5499999	10	0.05	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.6	1	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.5700001	2	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.5400001	3	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.5100001	4	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.4800001	5	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.4500001	6	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.4200001	7	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.3900001	8	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.3600001	9	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.3300001	10	0.03	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.36	1	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.342	2	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.324	3	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.306	4	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.288	5	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.27	6	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.252	7	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.234	8	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.216	9	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.198	10	0.018	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.216	1	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.2052	2	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.1944	3	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.1836	4	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	0.1728	4	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.162	5	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	0.1512	5	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	-0.1404	5	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.1296	6	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.1188	7	0.0108	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.1296	1	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	-0.12312	1	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.11664	2	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	-0.11016	2	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.10368	3	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.09720001	4	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.09072001	5	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.08424001	6	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.07776001	7	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-0.07128001	8	0.006480001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.07776001	1	0.003888001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+False	-0.07387201	1	0.003888001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	0.069984	2	0.003888001	3	72	21	Male	Anirwin	glasses prescription, drone vr
+True	-1	1	0.05	4	71	18	Male	amr	
+True	0.95	2	0.05	4	71	18	Male	amr	
+True	-0.9	3	0.05	4	71	18	Male	amr	
+False	0.85	3	0.05	4	71	18	Male	amr	
+True	-0.8	4	0.05	4	71	18	Male	amr	
+True	0.7499999	5	0.05	4	71	18	Male	amr	
+True	-0.6999999	6	0.05	4	71	18	Male	amr	
+False	0.6499999	6	0.05	4	71	18	Male	amr	
+True	-0.5999999	7	0.05	4	71	18	Male	amr	
+True	0.5499999	8	0.05	4	71	18	Male	amr	
+True	-0.6	1	0.03	4	71	18	Male	amr	
+False	0.5700001	1	0.03	4	71	18	Male	amr	
+True	-0.5400001	2	0.03	4	71	18	Male	amr	
+True	0.5100001	3	0.03	4	71	18	Male	amr	
+True	-0.4800001	4	0.03	4	71	18	Male	amr	
+False	0.4500001	4	0.03	4	71	18	Male	amr	
+True	-0.4200001	5	0.03	4	71	18	Male	amr	
+False	0.3900001	5	0.03	4	71	18	Male	amr	
+True	-0.3600001	6	0.03	4	71	18	Male	amr	
+False	0.3300001	6	0.03	4	71	18	Male	amr	
+True	-0.6	1	0.03	4	71	18	Male	amr	
+True	0.5700001	2	0.03	4	71	18	Male	amr	
+True	-0.5400001	3	0.03	4	71	18	Male	amr	
+True	0.5100001	4	0.03	4	71	18	Male	amr	
+True	-0.4800001	5	0.03	4	71	18	Male	amr	
+True	0.4500001	6	0.03	4	71	18	Male	amr	
+True	-0.4200001	7	0.03	4	71	18	Male	amr	
+True	0.3900001	8	0.03	4	71	18	Male	amr	
+True	-0.3600001	9	0.03	4	71	18	Male	amr	
+True	0.3300001	10	0.03	4	71	18	Male	amr	
+True	-0.36	1	0.018	4	71	18	Male	amr	
+False	0.342	1	0.018	4	71	18	Male	amr	
+True	-0.324	2	0.018	4	71	18	Male	amr	
+True	0.306	3	0.018	4	71	18	Male	amr	
+True	-0.288	4	0.018	4	71	18	Male	amr	
+True	0.27	5	0.018	4	71	18	Male	amr	
+True	-0.252	6	0.018	4	71	18	Male	amr	
+True	0.234	7	0.018	4	71	18	Male	amr	
+True	-0.216	8	0.018	4	71	18	Male	amr	
+True	0.198	9	0.018	4	71	18	Male	amr	
+True	-0.216	1	0.0108	4	71	18	Male	amr	
+True	0.2052	2	0.0108	4	71	18	Male	amr	
+True	-0.1944	3	0.0108	4	71	18	Male	amr	
+True	0.1836	4	0.0108	4	71	18	Male	amr	
+True	-0.1728	5	0.0108	4	71	18	Male	amr	
+True	0.162	6	0.0108	4	71	18	Male	amr	
+True	-0.1512	7	0.0108	4	71	18	Male	amr	
+True	0.1404	8	0.0108	4	71	18	Male	amr	
+True	-0.1296	9	0.0108	4	71	18	Male	amr	
+True	0.1188	10	0.0108	4	71	18	Male	amr	
+True	-0.1296	1	0.006480001	4	71	18	Male	amr	
+False	0.12312	1	0.006480001	4	71	18	Male	amr	
+True	-0.11664	2	0.006480001	4	71	18	Male	amr	
+False	0.11016	2	0.006480001	4	71	18	Male	amr	
+True	-0.10368	3	0.006480001	4	71	18	Male	amr	
+True	0.09720001	4	0.006480001	4	71	18	Male	amr	
+False	-0.09072001	4	0.006480001	4	71	18	Male	amr	
+False	0.08424001	4	0.006480001	4	71	18	Male	amr	
+False	-0.07776001	4	0.006480001	4	71	18	Male	amr	
+False	0.07128001	4	0.006480001	4	71	18	Male	amr	
+True	-0.1296	1	0.006480001	4	71	18	Male	amr	
+True	0.12312	2	0.006480001	4	71	18	Male	amr	
+True	-0.11664	3	0.006480001	4	71	18	Male	amr	
+True	0.11016	4	0.006480001	4	71	18	Male	amr	
+True	-0.10368	5	0.006480001	4	71	18	Male	amr	
+False	0.09720001	5	0.006480001	4	71	18	Male	amr	
+True	-0.09072001	6	0.006480001	4	71	18	Male	amr	
+True	0.08424001	7	0.006480001	4	71	18	Male	amr	
+True	-0.07776001	8	0.006480001	4	71	18	Male	amr	
+True	0.07128001	9	0.006480001	4	71	18	Male	amr	
+False	-0.07776001	0	0.003888001	4	71	18	Male	amr	
+True	0.07387201	1	0.003888001	4	71	18	Male	amr	
+True	-0.069984	2	0.003888001	4	71	18	Male	amr	
+False	0.066096	2	0.003888001	4	71	18	Male	amr	
+False	-0.062208	2	0.003888001	4	71	18	Male	amr	
+True	0.05832	3	0.003888001	4	71	18	Male	amr	
+True	-0.054432	4	0.003888001	4	71	18	Male	amr	
+True	0.050544	5	0.003888001	4	71	18	Male	amr	
+True	-0.046656	6	0.003888001	4	71	18	Male	amr	
+False	0.042768	6	0.003888001	4	71	18	Male	amr	
+True	-0.07776001	1	0.003888001	4	71	18	Male	amr	
+True	0.07387201	2	0.003888001	4	71	18	Male	amr	
+True	-0.069984	3	0.003888001	4	71	18	Male	amr	
+True	0.066096	4	0.003888001	4	71	18	Male	amr	
+True	-0.062208	5	0.003888001	4	71	18	Male	amr	
+True	0.05832	6	0.003888001	4	71	18	Male	amr	
+True	-0.054432	7	0.003888001	4	71	18	Male	amr	
+False	0.050544	7	0.003888001	4	71	18	Male	amr	
+False	-0.046656	7	0.003888001	4	71	18	Male	amr	
+True	0.042768	8	0.003888001	4	71	18	Male	amr	
+False	-0.04665601	0	0.002332801	4	71	18	Male	amr	
+True	0.04432321	1	0.002332801	4	71	18	Male	amr	
+False	-0.04199041	1	0.002332801	4	71	18	Male	amr	
+False	0.03965761	1	0.002332801	4	71	18	Male	amr	
+False	-0.03732481	1	0.002332801	4	71	18	Male	amr	
+True	0.03499201	2	0.002332801	4	71	18	Male	amr	
+True	-0.03265921	3	0.002332801	4	71	18	Male	amr	
+True	0.03032641	4	0.002332801	4	71	18	Male	amr	
+False	-0.02799361	4	0.002332801	4	71	18	Male	amr	
+True	0.02566081	5	0.002332801	4	71	18	Male	amr	
+True	-1	1	0.05	4	65	18	Female	Anirwin	wears glasses
+True	0.95	2	0.05	4	65	18	Female	Anirwin	wears glasses
+True	-0.9	3	0.05	4	65	18	Female	Anirwin	wears glasses
+True	0.85	4	0.05	4	65	18	Female	Anirwin	wears glasses
+True	-0.8	5	0.05	4	65	18	Female	Anirwin	wears glasses
+True	0.7499999	6	0.05	4	65	18	Female	Anirwin	wears glasses
+True	-0.6999999	7	0.05	4	65	18	Female	Anirwin	wears glasses
+True	0.6499999	8	0.05	4	65	18	Female	Anirwin	wears glasses
+True	-0.5999999	9	0.05	4	65	18	Female	Anirwin	wears glasses
+True	0.5499999	10	0.05	4	65	18	Female	Anirwin	wears glasses
+True	-0.6	1	0.03	4	65	18	Female	Anirwin	wears glasses
+True	0.5700001	2	0.03	4	65	18	Female	Anirwin	wears glasses
+True	-0.5400001	3	0.03	4	65	18	Female	Anirwin	wears glasses
+True	0.5100001	4	0.03	4	65	18	Female	Anirwin	wears glasses
+True	-0.4800001	5	0.03	4	65	18	Female	Anirwin	wears glasses
+True	0.4500001	6	0.03	4	65	18	Female	Anirwin	wears glasses
+True	-0.4200001	7	0.03	4	65	18	Female	Anirwin	wears glasses
+True	0.3900001	8	0.03	4	65	18	Female	Anirwin	wears glasses
+True	-0.3600001	9	0.03	4	65	18	Female	Anirwin	wears glasses
+True	0.3300001	10	0.03	4	65	18	Female	Anirwin	wears glasses
+True	-0.36	1	0.018	4	65	18	Female	Anirwin	wears glasses
+True	0.342	2	0.018	4	65	18	Female	Anirwin	wears glasses
+True	-0.324	3	0.018	4	65	18	Female	Anirwin	wears glasses
+True	0.306	4	0.018	4	65	18	Female	Anirwin	wears glasses
+True	-0.288	5	0.018	4	65	18	Female	Anirwin	wears glasses
+True	0.27	6	0.018	4	65	18	Female	Anirwin	wears glasses
+True	-0.252	7	0.018	4	65	18	Female	Anirwin	wears glasses
+True	0.234	8	0.018	4	65	18	Female	Anirwin	wears glasses
+True	-0.216	9	0.018	4	65	18	Female	Anirwin	wears glasses
+True	0.198	10	0.018	4	65	18	Female	Anirwin	wears glasses
+True	-0.216	1	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	0.2052	2	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	-0.1944	3	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	0.1836	4	0.0108	4	65	18	Female	Anirwin	wears glasses
+False	-0.1728	4	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	0.162	5	0.0108	4	65	18	Female	Anirwin	wears glasses
+False	-0.1512	5	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	0.1404	6	0.0108	4	65	18	Female	Anirwin	wears glasses
+False	-0.1296	6	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	0.1188	7	0.0108	4	65	18	Female	Anirwin	wears glasses
+True	-0.1296	1	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.12312	2	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.11664	3	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.11016	4	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.10368	4	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.09720001	5	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.09072001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	0.08424001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.07776001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	0.07128001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.1296	0	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	0.12312	0	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.11664	0	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.11016	1	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.10368	1	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.09720001	2	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.09072001	3	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.08424001	4	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.07776001	4	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.07128001	5	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.1296	1	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.12312	2	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.11664	3	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.11016	4	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.10368	5	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.09720001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.09072001	6	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.08424001	7	0.006480001	4	65	18	Female	Anirwin	wears glasses
+False	-0.07776001	7	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	0.07128001	8	0.006480001	4	65	18	Female	Anirwin	wears glasses
+True	-0.07776001	1	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.07387201	2	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	-0.069984	2	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	0.066096	2	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	-0.062208	2	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.05832	3	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.054432	4	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.050544	5	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	-0.046656	5	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.042768	6	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.07776001	1	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.07387201	2	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.069984	3	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.066096	4	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.062208	5	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.05832	6	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.054432	7	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	0.050544	8	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	-0.046656	8	0.003888001	4	65	18	Female	Anirwin	wears glasses
+False	0.042768	8	0.003888001	4	65	18	Female	Anirwin	wears glasses
+True	-0.04665601	1	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	0.04432321	2	0.002332801	4	65	18	Female	Anirwin	wears glasses
+False	-0.04199041	2	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	0.03965761	3	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	-0.03732481	4	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	0.03499201	5	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	-0.03265921	6	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	0.03032641	7	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	-0.02799361	8	0.002332801	4	65	18	Female	Anirwin	wears glasses
+True	0.02566081	9	0.002332801	4	65	18	Female	Anirwin	wears glasses
+False	-0.02799361	0	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	0.02659393	1	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	-0.02519424	2	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	0.02379456	3	0.00139968	4	65	18	Female	Anirwin	wears glasses
+False	-0.02239488	3	0.00139968	4	65	18	Female	Anirwin	wears glasses
+False	0.0209952	3	0.00139968	4	65	18	Female	Anirwin	wears glasses
+False	-0.01959552	3	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	0.01819584	4	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	-0.01679616	5	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	0.01539648	6	0.00139968	4	65	18	Female	Anirwin	wears glasses
+True	1	1	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.95	2	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.9	3	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.85	4	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.8	5	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.7499999	6	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.6999999	7	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.6499999	8	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.5999999	9	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.5499999	10	0.05	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.6	1	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.5700001	2	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.5400001	3	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.5100001	4	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.4800001	5	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.4500001	6	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.4200001	7	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.3900001	8	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.3600001	9	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.3300001	10	0.03	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.36	1	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.342	2	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.324	3	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.306	4	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.288	5	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.27	6	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.252	7	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.234	8	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.216	9	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.198	10	0.018	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.216	1	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.2052	2	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.1944	3	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.1836	4	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.1728	5	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.162	6	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.1512	7	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.1404	8	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.1296	9	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.1188	10	0.0108	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.1296	1	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.12312	2	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.11664	3	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.11016	4	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.10368	5	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.09720001	6	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.09072001	7	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.08424001	8	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.07776001	9	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.07128001	10	0.006480001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.07776001	1	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.07387201	2	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.069984	3	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.066096	4	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.062208	5	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.05832	6	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.054432	7	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.050544	8	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.046656	9	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.042768	10	0.003888001	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.04665601	1	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.04432321	2	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.04199041	3	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.03965761	4	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.03732481	5	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.03499201	6	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.03265921	7	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.03032641	8	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.02799361	9	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.02566081	10	0.002332801	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.02799361	1	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.02659393	2	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	0.02519424	2	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.02379456	3	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.02239488	4	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.0209952	5	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	0.01959552	5	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.01819584	6	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	0.01679616	6	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	-0.01539648	6	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.02799361	1	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.02659393	2	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.02519424	3	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.02379456	4	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	0.02239488	4	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.0209952	5	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.01959552	6	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.01819584	7	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+False	0.01679616	7	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.01539648	8	0.00139968	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	0.01679616	1	0.0008398083	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-0.01595636	2	0.0008398083	6	66	18	Male	Anirwin	wears glasses, some VR at clem but not really
+True	-1	1	0.05				Male		
+True	0.95	2	0.05				Male		
+True	-0.9	3	0.05				Male		
+True	0.85	4	0.05				Male		
+True	-1	1	0.05	7	67	19	Female	Elizabeth	
+True	0.95	2	0.05	7	67	19	Female	Elizabeth	
+True	-0.9	3	0.05	7	67	19	Female	Elizabeth	
+True	0.85	4	0.05	7	67	19	Female	Elizabeth	
+True	-0.8	5	0.05	7	67	19	Female	Elizabeth	
+True	0.7499999	6	0.05	7	67	19	Female	Elizabeth	
+True	-0.6999999	7	0.05	7	67	19	Female	Elizabeth	
+True	0.6499999	8	0.05	7	67	19	Female	Elizabeth	
+True	-0.5999999	9	0.05	7	67	19	Female	Elizabeth	
+True	0.5499999	10	0.05	7	67	19	Female	Elizabeth	
+True	-0.6	1	0.03	7	67	19	Female	Elizabeth	
+True	0.5700001	2	0.03	7	67	19	Female	Elizabeth	
+True	-0.5400001	3	0.03	7	67	19	Female	Elizabeth	
+True	0.5100001	4	0.03	7	67	19	Female	Elizabeth	
+True	-0.4800001	5	0.03	7	67	19	Female	Elizabeth	
+True	0.4500001	6	0.03	7	67	19	Female	Elizabeth	
+True	-0.4200001	7	0.03	7	67	19	Female	Elizabeth	
+True	0.3900001	8	0.03	7	67	19	Female	Elizabeth	
+True	-0.3600001	9	0.03	7	67	19	Female	Elizabeth	
+True	0.3300001	10	0.03	7	67	19	Female	Elizabeth	
+True	-0.36	1	0.018	7	67	19	Female	Elizabeth	
+True	0.342	2	0.018	7	67	19	Female	Elizabeth	
+True	-0.324	3	0.018	7	67	19	Female	Elizabeth	
+True	0.306	4	0.018	7	67	19	Female	Elizabeth	
+True	-0.288	5	0.018	7	67	19	Female	Elizabeth	
+True	0.27	6	0.018	7	67	19	Female	Elizabeth	
+True	-0.252	7	0.018	7	67	19	Female	Elizabeth	
+True	0.234	8	0.018	7	67	19	Female	Elizabeth	
+True	-0.216	9	0.018	7	67	19	Female	Elizabeth	
+True	0.198	10	0.018	7	67	19	Female	Elizabeth	
+True	-0.216	1	0.0108	7	67	19	Female	Elizabeth	
+True	0.2052	2	0.0108	7	67	19	Female	Elizabeth	
+True	-0.1944	3	0.0108	7	67	19	Female	Elizabeth	
+True	0.1836	4	0.0108	7	67	19	Female	Elizabeth	
+True	-0.1728	5	0.0108	7	67	19	Female	Elizabeth	
+True	0.162	6	0.0108	7	67	19	Female	Elizabeth	
+True	-0.1512	7	0.0108	7	67	19	Female	Elizabeth	
+True	0.1404	8	0.0108	7	67	19	Female	Elizabeth	
+True	-0.1296	9	0.0108	7	67	19	Female	Elizabeth	
+True	0.1188	10	0.0108	7	67	19	Female	Elizabeth	
+True	-0.1296	1	0.006480001	7	67	19	Female	Elizabeth	
+True	0.12312	2	0.006480001	7	67	19	Female	Elizabeth	
+True	-0.11664	3	0.006480001	7	67	19	Female	Elizabeth	
+True	0.11016	4	0.006480001	7	67	19	Female	Elizabeth	
+True	-0.10368	5	0.006480001	7	67	19	Female	Elizabeth	
+True	0.09720001	6	0.006480001	7	67	19	Female	Elizabeth	
+True	-0.09072001	7	0.006480001	7	67	19	Female	Elizabeth	
+True	0.08424001	8	0.006480001	7	67	19	Female	Elizabeth	
+True	-0.07776001	9	0.006480001	7	67	19	Female	Elizabeth	
+True	0.07128001	10	0.006480001	7	67	19	Female	Elizabeth	
+True	-0.07776001	1	0.003888001	7	67	19	Female	Elizabeth	
+True	0.07387201	2	0.003888001	7	67	19	Female	Elizabeth	
+True	-0.069984	3	0.003888001	7	67	19	Female	Elizabeth	
+True	0.066096	4	0.003888001	7	67	19	Female	Elizabeth	
+True	-0.062208	5	0.003888001	7	67	19	Female	Elizabeth	
+True	0.05832	6	0.003888001	7	67	19	Female	Elizabeth	
+True	-0.054432	7	0.003888001	7	67	19	Female	Elizabeth	
+True	0.050544	8	0.003888001	7	67	19	Female	Elizabeth	
+True	-0.046656	9	0.003888001	7	67	19	Female	Elizabeth	
+True	0.042768	10	0.003888001	7	67	19	Female	Elizabeth	
+True	-0.04665601	1	0.002332801	7	67	19	Female	Elizabeth	
+True	0.04432321	2	0.002332801	7	67	19	Female	Elizabeth	
+True	-0.04199041	3	0.002332801	7	67	19	Female	Elizabeth	
+True	0.03965761	4	0.002332801	7	67	19	Female	Elizabeth	
+True	-0.03732481	5	0.002332801	7	67	19	Female	Elizabeth	
+True	0.03499201	6	0.002332801	7	67	19	Female	Elizabeth	
+True	-0.03265921	7	0.002332801	7	67	19	Female	Elizabeth	
+True	0.03032641	8	0.002332801	7	67	19	Female	Elizabeth	
+False	-0.02799361	8	0.002332801	7	67	19	Female	Elizabeth	
+True	0.02566081	9	0.002332801	7	67	19	Female	Elizabeth	
+True	-0.02799361	1	0.00139968	7	67	19	Female	Elizabeth	
+True	0.02659393	2	0.00139968	7	67	19	Female	Elizabeth	
+True	-0.02519424	3	0.00139968	7	67	19	Female	Elizabeth	
+True	0.02379456	4	0.00139968	7	67	19	Female	Elizabeth	
+True	-0.02239488	5	0.00139968	7	67	19	Female	Elizabeth	
+True	0.0209952	6	0.00139968	7	67	19	Female	Elizabeth	
+True	-0.01959552	7	0.00139968	7	67	19	Female	Elizabeth	
+True	0.01819584	8	0.00139968	7	67	19	Female	Elizabeth	
+True	-0.01679616	9	0.00139968	7	67	19	Female	Elizabeth	
+True	0.01539648	10	0.00139968	7	67	19	Female	Elizabeth	
+True	-0.01679616	1	0.0008398083	7	67	19	Female	Elizabeth	
+True	0.01595636	2	0.0008398083	7	67	19	Female	Elizabeth	
+True	-0.01511655	3	0.0008398083	7	67	19	Female	Elizabeth	
+True	0.01427674	4	0.0008398083	7	67	19	Female	Elizabeth	
+True	-0.01343693	5	0.0008398083	7	67	19	Female	Elizabeth	
+True	0.01259712	6	0.0008398083	7	67	19	Female	Elizabeth	
+True	-0.01175732	7	0.0008398083	7	67	19	Female	Elizabeth	
+True	0.01091751	8	0.0008398083	7	67	19	Female	Elizabeth	
+True	-0.0100777	9	0.0008398083	7	67	19	Female	Elizabeth	
+True	0.009237891	10	0.0008398083	7	67	19	Female	Elizabeth	
+True	-0.0100777	1	0.000503885	7	67	19	Female	Elizabeth	
+True	0.009573814	2	0.000503885	7	67	19	Female	Elizabeth	
+True	-0.00906993	3	0.000503885	7	67	19	Female	Elizabeth	
+False	0.008566045	3	0.000503885	7	67	19	Female	Elizabeth	
+False	-0.008062161	3	0.000503885	7	67	19	Female	Elizabeth	
+True	0.007558275	4	0.000503885	7	67	19	Female	Elizabeth	
+True	-0.00705439	5	0.000503885	7	67	19	Female	Elizabeth	
+True	0.006550505	6	0.000503885	7	67	19	Female	Elizabeth	
+True	-0.00604662	7	0.000503885	7	67	19	Female	Elizabeth	
+True	0.005542735	8	0.000503885	7	67	19	Female	Elizabeth	
+True	-0.00604662	1	0.000302331	7	67	19	Female	Elizabeth	
+False	0.005744289	1	0.000302331	7	67	19	Female	Elizabeth	
+False	-0.005441958	1	0.000302331	7	67	19	Female	Elizabeth	
+True	0.005139627	2	0.000302331	7	67	19	Female	Elizabeth	
+False	-0.004837296	2	0.000302331	7	67	19	Female	Elizabeth	
+True	0.004534964	3	0.000302331	7	67	19	Female	Elizabeth	
+True	-0.004232633	4	0.000302331	7	67	19	Female	Elizabeth	
+True	0.003930302	5	0.000302331	7	67	19	Female	Elizabeth	
+True	-0.003627971	6	0.000302331	7	67	19	Female	Elizabeth	
+True	0.00332564	7	0.000302331	7	67	19	Female	Elizabeth	
+False	-0.003627972	0	0.0001813986	7	67	19	Female	Elizabeth	
+True	0.003446573	1	0.0001813986	7	67	19	Female	Elizabeth	
+True	-0.003265175	2	0.0001813986	7	67	19	Female	Elizabeth	
+True	0.003083776	3	0.0001813986	7	67	19	Female	Elizabeth	
+True	-0.002902378	4	0.0001813986	7	67	19	Female	Elizabeth	
+True	0.002720979	5	0.0001813986	7	67	19	Female	Elizabeth	
+True	-0.00253958	6	0.0001813986	7	67	19	Female	Elizabeth	
+False	0.002358182	6	0.0001813986	7	67	19	Female	Elizabeth	
+True	-0.002176783	7	0.0001813986	7	67	19	Female	Elizabeth	
+False	0.001995385	7	0.0001813986	7	67	19	Female	Elizabeth	
+True	-0.002176783	1	0.0001088392	7	67	19	Female	Elizabeth	
+True	0.002067944	2	0.0001088392	7	67	19	Female	Elizabeth	
+False	-0.001959105	2	0.0001088392	7	67	19	Female	Elizabeth	
+True	0.001850266	3	0.0001088392	7	67	19	Female	Elizabeth	
+True	-0.001741427	4	0.0001088392	7	67	19	Female	Elizabeth	
+False	0.001632587	4	0.0001088392	7	67	19	Female	Elizabeth	
+False	-0.001523748	4	0.0001088392	7	67	19	Female	Elizabeth	
+False	0.001414909	4	0.0001088392	7	67	19	Female	Elizabeth	
+False	-0.00130607	4	0.0001088392	7	67	19	Female	Elizabeth	
+True	0.001197231	5	0.0001088392	7	67	19	Female	Elizabeth	
+False	-0.002176783	0	0.0001088392	7	67	19	Female	Elizabeth	
+True	1	1	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.95	2	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	0.9	3	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.85	4	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+False	0.8	4	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.7499999	5	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+False	0.6999999	5	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.6499999	6	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	0.5999999	7	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.5499999	8	0.05	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+False	0.6	0	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.5700001	1	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	0.5400001	2	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.5100001	3	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	0.4800001	4	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.4500001	5	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+False	0.4200001	5	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.3900001	6	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	0.3600001	7	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.3300001	8	0.03	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+False	0.36	0	0.018	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	-0.342	1	0.018	8	5ft 6in	20	Male	Aaron Clyman	has glasses, wants to give it a shot without
+True	1	1	0.05	9	5ft 2in	18	Female	Aaron	
+True	-0.95	2	0.05	9	5ft 2in	18	Female	Aaron	
+True	0.9	3	0.05	9	5ft 2in	18	Female	Aaron	
+True	-0.85	4	0.05	9	5ft 2in	18	Female	Aaron	
+True	0.8	5	0.05	9	5ft 2in	18	Female	Aaron	
+True	-0.7499999	6	0.05	9	5ft 2in	18	Female	Aaron	
+True	0.6999999	7	0.05	9	5ft 2in	18	Female	Aaron	
+True	-0.6499999	8	0.05	9	5ft 2in	18	Female	Aaron	
+True	0.5999999	9	0.05	9	5ft 2in	18	Female	Aaron	
+True	-0.5499999	10	0.05	9	5ft 2in	18	Female	Aaron	
+True	0.6	1	0.03	9	5ft 2in	18	Female	Aaron	
+True	-0.5700001	2	0.03	9	5ft 2in	18	Female	Aaron	
+True	0.5400001	3	0.03	9	5ft 2in	18	Female	Aaron	
+True	-0.5100001	4	0.03	9	5ft 2in	18	Female	Aaron	
+True	0.4800001	5	0.03	9	5ft 2in	18	Female	Aaron	
+True	-0.4500001	6	0.03	9	5ft 2in	18	Female	Aaron	
+True	0.4200001	7	0.03	9	5ft 2in	18	Female	Aaron	
+True	-0.3900001	8	0.03	9	5ft 2in	18	Female	Aaron	
+True	0.3600001	9	0.03	9	5ft 2in	18	Female	Aaron	
+True	-0.3300001	10	0.03	9	5ft 2in	18	Female	Aaron	
+True	0.36	1	0.018	9	5ft 2in	18	Female	Aaron	
+True	-0.342	2	0.018	9	5ft 2in	18	Female	Aaron	
+True	0.324	3	0.018	9	5ft 2in	18	Female	Aaron	
+True	-0.306	4	0.018	9	5ft 2in	18	Female	Aaron	
+True	0.288	5	0.018	9	5ft 2in	18	Female	Aaron	
+True	-0.27	6	0.018	9	5ft 2in	18	Female	Aaron	
+True	0.252	7	0.018	9	5ft 2in	18	Female	Aaron	
+True	-0.234	8	0.018	9	5ft 2in	18	Female	Aaron	
+True	0.216	9	0.018	9	5ft 2in	18	Female	Aaron	
+True	-0.198	10	0.018	9	5ft 2in	18	Female	Aaron	
+True	0.216	1	0.0108	9	5ft 2in	18	Female	Aaron	
+True	-0.2052	2	0.0108	9	5ft 2in	18	Female	Aaron	
+True	0.1944	3	0.0108	9	5ft 2in	18	Female	Aaron	
+True	-0.1836	4	0.0108	9	5ft 2in	18	Female	Aaron	
+True	0.1728	5	0.0108	9	5ft 2in	18	Female	Aaron	
+True	-0.162	6	0.0108	9	5ft 2in	18	Female	Aaron	
+True	0.1512	7	0.0108	9	5ft 2in	18	Female	Aaron	
+True	-0.1404	8	0.0108	9	5ft 2in	18	Female	Aaron	
+True	0.1296	9	0.0108	9	5ft 2in	18	Female	Aaron	
+True	-0.1188	10	0.0108	9	5ft 2in	18	Female	Aaron	
+True	0.1296	1	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	-0.12312	2	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	0.11664	3	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	-0.11016	4	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	0.10368	5	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	-0.09720001	6	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	0.09072001	7	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	-0.08424001	8	0.006480001	9	5ft 2in	18	Female	Aaron	
+False	0.07776001	8	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	-0.07128001	9	0.006480001	9	5ft 2in	18	Female	Aaron	
+True	0.07776001	1	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	-0.07387201	2	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	0.069984	3	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	-0.066096	4	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	0.062208	5	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	-0.05832	6	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	0.054432	7	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	-0.050544	8	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	0.046656	9	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	-0.042768	10	0.003888001	9	5ft 2in	18	Female	Aaron	
+True	0.04665601	1	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	-0.04432321	2	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	0.04199041	3	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	-0.03965761	4	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	0.03732481	5	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	-0.03499201	6	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	0.03265921	7	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	-0.03032641	8	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	0.02799361	9	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	-0.02566081	10	0.002332801	9	5ft 2in	18	Female	Aaron	
+True	0.02799361	1	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.02659393	1	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.02519424	2	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.02379456	2	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.02239488	3	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.0209952	3	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	0.01959552	3	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	-0.01819584	4	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	0.01679616	4	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.01539648	4	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.02799361	1	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.02659393	1	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.02519424	2	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.02379456	2	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.02239488	3	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	-0.0209952	4	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.01959552	5	0.00139968	9	5ft 2in	18	Female	Aaron	
+False	-0.01819584	5	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.01679616	6	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	-0.01539648	7	0.00139968	9	5ft 2in	18	Female	Aaron	
+True	0.01679616	1	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01595636	2	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01511655	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01427674	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	0.01343693	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01259712	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01175732	4	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01091751	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.0100777	6	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.009237891	6	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01679616	1	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01595636	2	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01511655	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01427674	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01343693	4	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01259712	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	0.01175732	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01091751	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	0.0100777	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.009237891	6	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01679616	1	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01595636	1	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01511655	2	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01427674	3	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01343693	4	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	-0.01259712	4	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.01175732	5	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.01091751	6	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	0.0100777	7	0.0008398083	9	5ft 2in	18	Female	Aaron	
+True	-0.009237891	8	0.0008398083	9	5ft 2in	18	Female	Aaron	
+False	0.0100777	0	0.000503885	9	5ft 2in	18	Female	Aaron	
+False	-0.009573814	0	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	0.00906993	1	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	-0.008566045	2	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	0.008062161	3	0.000503885	9	5ft 2in	18	Female	Aaron	
+False	-0.007558275	3	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	0.00705439	4	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	-0.006550505	5	0.000503885	9	5ft 2in	18	Female	Aaron	
+False	0.00604662	5	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	-0.005542735	6	0.000503885	9	5ft 2in	18	Female	Aaron	
+True	-1	1	0.05				Male		
+True	0.95	2	0.05				Male		
+True	-0.9	3	0.05				Male		
+True	0.85	4	0.05				Male		
+True	-0.8	5	0.05				Male		
+True	0.7499999	6	0.05				Male		
+True	-1	1	0.05	10	71	19	Male	Eva	
+True	0.95	2	0.05	10	71	19	Male	Eva	
+True	-0.9	3	0.05	10	71	19	Male	Eva	
+True	0.85	4	0.05	10	71	19	Male	Eva	
+True	-0.8	5	0.05	10	71	19	Male	Eva	
+True	0.7499999	6	0.05	10	71	19	Male	Eva	
+True	-0.6999999	7	0.05	10	71	19	Male	Eva	
+True	0.6499999	8	0.05	10	71	19	Male	Eva	
+True	-0.5999999	9	0.05	10	71	19	Male	Eva	
+True	0.5499999	10	0.05	10	71	19	Male	Eva	
+True	-0.6	1	0.03	10	71	19	Male	Eva	
+True	0.5700001	2	0.03	10	71	19	Male	Eva	
+True	-0.5400001	3	0.03	10	71	19	Male	Eva	
+True	0.5100001	4	0.03	10	71	19	Male	Eva	
+True	-0.4800001	5	0.03	10	71	19	Male	Eva	
+True	0.4500001	6	0.03	10	71	19	Male	Eva	
+True	-0.4200001	7	0.03	10	71	19	Male	Eva	
+True	0.3900001	8	0.03	10	71	19	Male	Eva	
+True	-0.3600001	9	0.03	10	71	19	Male	Eva	
+True	0.3300001	10	0.03	10	71	19	Male	Eva	
+True	-0.36	1	0.018	10	71	19	Male	Eva	
+True	0.342	2	0.018	10	71	19	Male	Eva	
+True	-0.324	3	0.018	10	71	19	Male	Eva	
+False	0.306	3	0.018	10	71	19	Male	Eva	
+True	-0.288	4	0.018	10	71	19	Male	Eva	
+True	0.27	5	0.018	10	71	19	Male	Eva	
+True	-0.252	6	0.018	10	71	19	Male	Eva	
+True	0.234	7	0.018	10	71	19	Male	Eva	
+True	-0.216	8	0.018	10	71	19	Male	Eva	
+True	0.198	9	0.018	10	71	19	Male	Eva	
+True	-0.216	1	0.0108	10	71	19	Male	Eva	
+True	0.2052	2	0.0108	10	71	19	Male	Eva	
+True	-0.1944	3	0.0108	10	71	19	Male	Eva	
+True	0.1836	4	0.0108	10	71	19	Male	Eva	
+True	-0.1728	5	0.0108	10	71	19	Male	Eva	
+True	0.162	6	0.0108	10	71	19	Male	Eva	
+True	-0.1512	7	0.0108	10	71	19	Male	Eva	
+False	0.1404	7	0.0108	10	71	19	Male	Eva	
+False	-0.1296	7	0.0108	10	71	19	Male	Eva	
+False	0.1188	7	0.0108	10	71	19	Male	Eva	
+False	-0.1296	0	0.006480001	10	71	19	Male	Eva	
+True	0.12312	1	0.006480001	10	71	19	Male	Eva	
+False	-0.11664	1	0.006480001	10	71	19	Male	Eva	
+False	0.11016	1	0.006480001	10	71	19	Male	Eva	
+True	-0.10368	2	0.006480001	10	71	19	Male	Eva	
+True	0.09720001	3	0.006480001	10	71	19	Male	Eva	
+False	-0.09072001	3	0.006480001	10	71	19	Male	Eva	
+False	0.08424001	3	0.006480001	10	71	19	Male	Eva	
+True	-0.07776001	4	0.006480001	10	71	19	Male	Eva	
+True	0.07128001	5	0.006480001	10	71	19	Male	Eva	
+True	-0.1296	1	0.006480001	10	71	19	Male	Eva	
+True	0.12312	2	0.006480001	10	71	19	Male	Eva	
+True	-0.11664	3	0.006480001	10	71	19	Male	Eva	
+False	0.11016	3	0.006480001	10	71	19	Male	Eva	
+False	-0.10368	3	0.006480001	10	71	19	Male	Eva	
+True	0.09720001	4	0.006480001	10	71	19	Male	Eva	
+True	-0.09072001	5	0.006480001	10	71	19	Male	Eva	
+True	0.08424001	6	0.006480001	10	71	19	Male	Eva	
+False	-0.07776001	6	0.006480001	10	71	19	Male	Eva	
+False	0.07128001	6	0.006480001	10	71	19	Male	Eva	
+True	-0.1296	1	0.006480001	10	71	19	Male	Eva	
+True	0.12312	2	0.006480001	10	71	19	Male	Eva	
+True	-0.11664	3	0.006480001	10	71	19	Male	Eva	
+True	-1	1	0.05	11	164 cm	20	Male	amr	
+True	0.95	2	0.05	11	164 cm	20	Male	amr	
+True	-0.9	3	0.05	11	164 cm	20	Male	amr	
+True	0.85	4	0.05	11	164 cm	20	Male	amr	
+True	-0.8	5	0.05	11	164 cm	20	Male	amr	
+True	0.7499999	6	0.05	11	164 cm	20	Male	amr	
+True	-0.6999999	7	0.05	11	164 cm	20	Male	amr	
+True	0.6499999	8	0.05	11	164 cm	20	Male	amr	
+True	-0.5999999	9	0.05	11	164 cm	20	Male	amr	
+True	0.5499999	10	0.05	11	164 cm	20	Male	amr	
+True	-0.6	1	0.03	11	164 cm	20	Male	amr	
+True	0.5700001	2	0.03	11	164 cm	20	Male	amr	
+True	-0.5400001	3	0.03	11	164 cm	20	Male	amr	
+True	0.5100001	4	0.03	11	164 cm	20	Male	amr	
+True	-0.4800001	5	0.03	11	164 cm	20	Male	amr	
+True	0.4500001	6	0.03	11	164 cm	20	Male	amr	
+True	-0.4200001	7	0.03	11	164 cm	20	Male	amr	
+True	0.3900001	8	0.03	11	164 cm	20	Male	amr	
+True	-0.3600001	9	0.03	11	164 cm	20	Male	amr	
+True	0.3300001	10	0.03	11	164 cm	20	Male	amr	
+True	-0.36	1	0.018	11	164 cm	20	Male	amr	
+True	0.342	2	0.018	11	164 cm	20	Male	amr	
+False	-0.324	2	0.018	11	164 cm	20	Male	amr	
+True	0.306	3	0.018	11	164 cm	20	Male	amr	
+True	-0.288	4	0.018	11	164 cm	20	Male	amr	
+True	0.27	5	0.018	11	164 cm	20	Male	amr	
+True	-0.252	6	0.018	11	164 cm	20	Male	amr	
+True	0.234	7	0.018	11	164 cm	20	Male	amr	
+False	-0.216	7	0.018	11	164 cm	20	Male	amr	
+True	0.198	8	0.018	11	164 cm	20	Male	amr	
+True	-0.216	1	0.0108	11	164 cm	20	Male	amr	
+True	0.2052	2	0.0108	11	164 cm	20	Male	amr	
+True	-0.1944	3	0.0108	11	164 cm	20	Male	amr	
+True	0.1836	4	0.0108	11	164 cm	20	Male	amr	
+True	-0.1728	5	0.0108	11	164 cm	20	Male	amr	
+False	0.162	5	0.0108	11	164 cm	20	Male	amr	
+True	-0.1512	6	0.0108	11	164 cm	20	Male	amr	
+True	0.1404	7	0.0108	11	164 cm	20	Male	amr	
+True	-0.1296	8	0.0108	11	164 cm	20	Male	amr	
+True	1	1	0.05	12	65	19	Female	Eva	
+True	-0.95	2	0.05	12	65	19	Female	Eva	
+True	0.9	3	0.05	12	65	19	Female	Eva	
+True	-0.85	4	0.05	12	65	19	Female	Eva	
+True	0.8	5	0.05	12	65	19	Female	Eva	
+True	-0.7499999	6	0.05	12	65	19	Female	Eva	
+True	0.6999999	7	0.05	12	65	19	Female	Eva	
+True	-0.6499999	8	0.05	12	65	19	Female	Eva	
+True	0.5999999	9	0.05	12	65	19	Female	Eva	
+True	-0.5499999	10	0.05	12	65	19	Female	Eva	
+True	0.6	1	0.03	12	65	19	Female	Eva	
+True	-0.5700001	2	0.03	12	65	19	Female	Eva	
+True	0.5400001	3	0.03	12	65	19	Female	Eva	
+True	-0.5100001	4	0.03	12	65	19	Female	Eva	
+True	0.4800001	5	0.03	12	65	19	Female	Eva	
+True	-0.4500001	6	0.03	12	65	19	Female	Eva	
+True	0.4200001	7	0.03	12	65	19	Female	Eva	
+True	-0.3900001	8	0.03	12	65	19	Female	Eva	
+True	0.3600001	9	0.03	12	65	19	Female	Eva	
+True	-0.3300001	10	0.03	12	65	19	Female	Eva	
+True	0.36	1	0.018	12	65	19	Female	Eva	
+True	-0.342	2	0.018	12	65	19	Female	Eva	
+True	0.324	3	0.018	12	65	19	Female	Eva	
+True	-0.306	4	0.018	12	65	19	Female	Eva	
+True	0.288	5	0.018	12	65	19	Female	Eva	
+True	-0.27	6	0.018	12	65	19	Female	Eva	
+True	0.252	7	0.018	12	65	19	Female	Eva	
+True	-0.234	8	0.018	12	65	19	Female	Eva	
+True	0.216	9	0.018	12	65	19	Female	Eva	
+True	-0.198	10	0.018	12	65	19	Female	Eva	
+True	0.216	1	0.0108	12	65	19	Female	Eva	
+True	-0.2052	2	0.0108	12	65	19	Female	Eva	
+True	0.1944	3	0.0108	12	65	19	Female	Eva	
+True	-0.1836	4	0.0108	12	65	19	Female	Eva	
+True	0.1728	5	0.0108	12	65	19	Female	Eva	
+True	-0.162	6	0.0108	12	65	19	Female	Eva	
+True	0.1512	7	0.0108	12	65	19	Female	Eva	
+True	-0.1404	8	0.0108	12	65	19	Female	Eva	
+True	0.1296	9	0.0108	12	65	19	Female	Eva	
+True	-0.1188	10	0.0108	12	65	19	Female	Eva	
+True	0.1296	1	0.006480001	12	65	19	Female	Eva	
+True	-0.12312	2	0.006480001	12	65	19	Female	Eva	
+True	0.11664	3	0.006480001	12	65	19	Female	Eva	
+True	-0.11016	4	0.006480001	12	65	19	Female	Eva	
+True	0.10368	5	0.006480001	12	65	19	Female	Eva	
+True	-0.09720001	6	0.006480001	12	65	19	Female	Eva	
+True	0.09072001	7	0.006480001	12	65	19	Female	Eva	
+True	-0.08424001	8	0.006480001	12	65	19	Female	Eva	
+True	0.07776001	9	0.006480001	12	65	19	Female	Eva	
+True	-0.07128001	10	0.006480001	12	65	19	Female	Eva	
+True	0.07776001	1	0.003888001	12	65	19	Female	Eva	
+True	-0.07387201	2	0.003888001	12	65	19	Female	Eva	
+True	0.069984	3	0.003888001	12	65	19	Female	Eva	
+True	-0.066096	4	0.003888001	12	65	19	Female	Eva	
+True	0.062208	5	0.003888001	12	65	19	Female	Eva	
+False	-0.05832	5	0.003888001	12	65	19	Female	Eva	
+True	0.054432	6	0.003888001	12	65	19	Female	Eva	
+True	-0.050544	7	0.003888001	12	65	19	Female	Eva	
+True	0.046656	8	0.003888001	12	65	19	Female	Eva	
+False	-0.042768	8	0.003888001	12	65	19	Female	Eva	
+False	0.04665601	0	0.002332801	12	65	19	Female	Eva	
+False	-0.04432321	0	0.002332801	12	65	19	Female	Eva	
+True	0.04199041	1	0.002332801	12	65	19	Female	Eva	
+False	-0.03965761	1	0.002332801	12	65	19	Female	Eva	
+True	0.03732481	2	0.002332801	12	65	19	Female	Eva	
+True	-0.03499201	3	0.002332801	12	65	19	Female	Eva	
+True	0.03265921	4	0.002332801	12	65	19	Female	Eva	
+True	-0.03032641	5	0.002332801	12	65	19	Female	Eva	
+False	0.02799361	5	0.002332801	12	65	19	Female	Eva	
+False	-0.02566081	5	0.002332801	12	65	19	Female	Eva	
+True	0.04665601	1	0.002332801	12	65	19	Female	Eva	
+True	-0.04432321	2	0.002332801	12	65	19	Female	Eva	
+True	0.04199041	3	0.002332801	12	65	19	Female	Eva	
+False	-0.03965761	3	0.002332801	12	65	19	Female	Eva	
+False	0.03732481	3	0.002332801	12	65	19	Female	Eva	
+True	-0.03499201	4	0.002332801	12	65	19	Female	Eva	
+True	0.03265921	5	0.002332801	12	65	19	Female	Eva	
+True	-0.03032641	6	0.002332801	12	65	19	Female	Eva	
+True	0.02799361	7	0.002332801	12	65	19	Female	Eva	
+False	-0.02566081	7	0.002332801	12	65	19	Female	Eva	
+True	0.02799361	1	0.00139968	12	65	19	Female	Eva	
+False	-0.02659393	1	0.00139968	12	65	19	Female	Eva	
+True	0.02519424	2	0.00139968	12	65	19	Female	Eva	
+True	-0.02379456	3	0.00139968	12	65	19	Female	Eva	
+True	0.02239488	4	0.00139968	12	65	19	Female	Eva	
+True	-0.0209952	5	0.00139968	12	65	19	Female	Eva	
+False	0.01959552	5	0.00139968	12	65	19	Female	Eva	
+True	-0.01819584	6	0.00139968	12	65	19	Female	Eva	
+True	0.01679616	7	0.00139968	12	65	19	Female	Eva	
+True	-0.01539648	8	0.00139968	12	65	19	Female	Eva	
+True	0.01679616	1	0.0008398083	12	65	19	Female	Eva	
+True	-0.01595636	2	0.0008398083	12	65	19	Female	Eva	
+True	0.01511655	3	0.0008398083	12	65	19	Female	Eva	
+False	-0.01427674	3	0.0008398083	12	65	19	Female	Eva	
+True	0.01343693	4	0.0008398083	12	65	19	Female	Eva	
+False	-0.01259712	4	0.0008398083	12	65	19	Female	Eva	
+True	0.01175732	5	0.0008398083	12	65	19	Female	Eva	
+False	-0.01091751	5	0.0008398083	12	65	19	Female	Eva	
+True	0.0100777	6	0.0008398083	12	65	19	Female	Eva	
+True	-0.009237891	7	0.0008398083	12	65	19	Female	Eva	
+True	0.0100777	1	0.000503885	12	65	19	Female	Eva	
+False	-0.009573814	1	0.000503885	12	65	19	Female	Eva	
+True	0.00906993	2	0.000503885	12	65	19	Female	Eva	
+True	-0.008566045	3	0.000503885	12	65	19	Female	Eva	
+True	0.008062161	4	0.000503885	12	65	19	Female	Eva	
+True	-0.007558275	5	0.000503885	12	65	19	Female	Eva	
+True	0.00705439	6	0.000503885	12	65	19	Female	Eva	
+True	-0.006550505	7	0.000503885	12	65	19	Female	Eva	
+False	0.00604662	7	0.000503885	12	65	19	Female	Eva	
+True	-0.005542735	8	0.000503885	12	65	19	Female	Eva	
+False	0.00604662	0	0.000302331	12	65	19	Female	Eva	
+True	-0.005744289	1	0.000302331	12	65	19	Female	Eva	
+True	0.005441958	2	0.000302331	12	65	19	Female	Eva	
+False	-0.005139627	2	0.000302331	12	65	19	Female	Eva	
+False	0.004837296	2	0.000302331	12	65	19	Female	Eva	
+True	-0.004534964	3	0.000302331	12	65	19	Female	Eva	
+False	0.004232633	3	0.000302331	12	65	19	Female	Eva	
+True	-0.003930302	4	0.000302331	12	65	19	Female	Eva	
+True	0.003627971	5	0.000302331	12	65	19	Female	Eva	
+False	-0.00332564	5	0.000302331	12	65	19	Female	Eva	
+True	0.00604662	1	0.000302331	12	65	19	Female	Eva	
+True	-0.005744289	2	0.000302331	12	65	19	Female	Eva	
+True	0.005441958	3	0.000302331	12	65	19	Female	Eva	
+True	-0.005139627	4	0.000302331	12	65	19	Female	Eva	
+False	0.004837296	4	0.000302331	12	65	19	Female	Eva	
+True	-0.004534964	5	0.000302331	12	65	19	Female	Eva	
+False	0.004232633	5	0.000302331	12	65	19	Female	Eva	
+False	-0.003930302	5	0.000302331	12	65	19	Female	Eva	
+False	0.003627971	5	0.000302331	12	65	19	Female	Eva	
+True	-0.00332564	6	0.000302331	12	65	19	Female	Eva	
+False	0.00604662	0	0.000302331	12	65	19	Female	Eva	
+True	1	1	0.05	13	56	19	Female	Eva	
+True	-0.95	2	0.05	13	56	19	Female	Eva	
+True	0.9	3	0.05	13	56	19	Female	Eva	
+True	-0.85	4	0.05	13	56	19	Female	Eva	
+True	0.8	5	0.05	13	56	19	Female	Eva	
+True	-0.7499999	6	0.05	13	56	19	Female	Eva	
+True	0.6999999	7	0.05	13	56	19	Female	Eva	
+True	-0.6499999	8	0.05	13	56	19	Female	Eva	
+True	0.5999999	9	0.05	13	56	19	Female	Eva	
+True	-0.5499999	10	0.05	13	56	19	Female	Eva	
+True	0.6	1	0.03	13	56	19	Female	Eva	
+True	-0.5700001	2	0.03	13	56	19	Female	Eva	
+True	0.5400001	3	0.03	13	56	19	Female	Eva	
+True	-0.5100001	4	0.03	13	56	19	Female	Eva	
+False	0.4800001	4	0.03	13	56	19	Female	Eva	
+True	-0.4500001	5	0.03	13	56	19	Female	Eva	
+True	0.4200001	6	0.03	13	56	19	Female	Eva	
+False	-0.3900001	6	0.03	13	56	19	Female	Eva	
+True	0.3600001	7	0.03	13	56	19	Female	Eva	
+True	-0.3300001	8	0.03	13	56	19	Female	Eva	
+True	0.36	1	0.018	13	56	19	Female	Eva	
+True	-0.342	2	0.018	13	56	19	Female	Eva	
+True	0.324	3	0.018	13	56	19	Female	Eva	
+True	-0.306	4	0.018	13	56	19	Female	Eva	
+True	0.288	5	0.018	13	56	19	Female	Eva	
+True	-0.27	6	0.018	13	56	19	Female	Eva	
+True	0.252	7	0.018	13	56	19	Female	Eva	
+True	-0.234	8	0.018	13	56	19	Female	Eva	
+True	0.216	9	0.018	13	56	19	Female	Eva	
+False	-0.198	9	0.018	13	56	19	Female	Eva	
+True	0.216	1	0.0108	13	56	19	Female	Eva	
+True	-0.2052	2	0.0108	13	56	19	Female	Eva	
+True	0.1944	3	0.0108	13	56	19	Female	Eva	
+True	-0.1836	4	0.0108	13	56	19	Female	Eva	
+True	0.1728	5	0.0108	13	56	19	Female	Eva	
+True	-0.162	6	0.0108	13	56	19	Female	Eva	
+True	0.1512	7	0.0108	13	56	19	Female	Eva	
+True	-0.1404	8	0.0108	13	56	19	Female	Eva	
+False	0.1296	8	0.0108	13	56	19	Female	Eva	
+True	-0.1188	9	0.0108	13	56	19	Female	Eva	
+False	0.1296	0	0.006480001	13	56	19	Female	Eva	
+True	-0.12312	1	0.006480001	13	56	19	Female	Eva	
+True	0.11664	2	0.006480001	13	56	19	Female	Eva	
+True	-0.11016	3	0.006480001	13	56	19	Female	Eva	
+True	0.10368	4	0.006480001	13	56	19	Female	Eva	
+True	-0.09720001	5	0.006480001	13	56	19	Female	Eva	
+True	0.09072001	6	0.006480001	13	56	19	Female	Eva	
+True	-0.08424001	7	0.006480001	13	56	19	Female	Eva	
+True	-1	1	0.05	14	67	19	Female	Anirwin	
+True	0.95	2	0.05	14	67	19	Female	Anirwin	
+False	-0.9	2	0.05	14	67	19	Female	Anirwin	
+False	0.85	2	0.05	14	67	19	Female	Anirwin	
+True	-0.8	3	0.05	14	67	19	Female	Anirwin	
+True	0.7499999	4	0.05	14	67	19	Female	Anirwin	
+True	-0.6999999	5	0.05	14	67	19	Female	Anirwin	
+True	0.6499999	6	0.05	14	67	19	Female	Anirwin	
+True	-0.5999999	7	0.05	14	67	19	Female	Anirwin	
+True	0.5499999	8	0.05	14	67	19	Female	Anirwin	
+True	-0.6	1	0.03	14	67	19	Female	Anirwin	
+True	0.5700001	2	0.03	14	67	19	Female	Anirwin	
+True	-0.5400001	3	0.03	14	67	19	Female	Anirwin	
+True	0.5100001	4	0.03	14	67	19	Female	Anirwin	
+True	-0.4800001	5	0.03	14	67	19	Female	Anirwin	
+True	0.4500001	6	0.03	14	67	19	Female	Anirwin	
+True	-0.4200001	7	0.03	14	67	19	Female	Anirwin	
+True	0.3900001	8	0.03	14	67	19	Female	Anirwin	
+True	-0.3600001	9	0.03	14	67	19	Female	Anirwin	
+True	0.3300001	10	0.03	14	67	19	Female	Anirwin	
+True	-0.36	1	0.018	14	67	19	Female	Anirwin	
+True	0.342	2	0.018	14	67	19	Female	Anirwin	
+True	-0.324	3	0.018	14	67	19	Female	Anirwin	
+True	0.306	4	0.018	14	67	19	Female	Anirwin	
+True	-0.288	5	0.018	14	67	19	Female	Anirwin	
+True	0.27	6	0.018	14	67	19	Female	Anirwin	
+True	-0.252	7	0.018	14	67	19	Female	Anirwin	
+True	0.234	8	0.018	14	67	19	Female	Anirwin	
+True	-0.216	9	0.018	14	67	19	Female	Anirwin	
+True	0.198	10	0.018	14	67	19	Female	Anirwin	
+True	-0.216	1	0.0108	14	67	19	Female	Anirwin	
+True	0.2052	2	0.0108	14	67	19	Female	Anirwin	
+True	-0.1944	3	0.0108	14	67	19	Female	Anirwin	
+True	0.1836	4	0.0108	14	67	19	Female	Anirwin	
+True	-0.1728	5	0.0108	14	67	19	Female	Anirwin	
+True	0.162	6	0.0108	14	67	19	Female	Anirwin	
+True	-0.1512	7	0.0108	14	67	19	Female	Anirwin	
+True	0.1404	8	0.0108	14	67	19	Female	Anirwin	
+True	-0.1296	9	0.0108	14	67	19	Female	Anirwin	
+True	0.1188	10	0.0108	14	67	19	Female	Anirwin	
+True	-0.1296	1	0.006480001	14	67	19	Female	Anirwin	
+False	0.12312	1	0.006480001	14	67	19	Female	Anirwin	
+True	-0.11664	2	0.006480001	14	67	19	Female	Anirwin	
+True	0.11016	3	0.006480001	14	67	19	Female	Anirwin	
+False	-0.10368	3	0.006480001	14	67	19	Female	Anirwin	
+False	0.09720001	3	0.006480001	14	67	19	Female	Anirwin	
+True	-0.09072001	4	0.006480001	14	67	19	Female	Anirwin	
+True	0.08424001	5	0.006480001	14	67	19	Female	Anirwin	
+True	-0.07776001	6	0.006480001	14	67	19	Female	Anirwin	
+True	0.07128001	7	0.006480001	14	67	19	Female	Anirwin	
+True	-0.07776001	1	0.003888001	14	67	19	Female	Anirwin	
+True	0.07387201	2	0.003888001	14	67	19	Female	Anirwin	
+False	-0.069984	2	0.003888001	14	67	19	Female	Anirwin	
+True	0.066096	3	0.003888001	14	67	19	Female	Anirwin	
+True	-0.062208	4	0.003888001	14	67	19	Female	Anirwin	
+True	0.05832	5	0.003888001	14	67	19	Female	Anirwin	
+False	-0.054432	5	0.003888001	14	67	19	Female	Anirwin	
+True	0.050544	6	0.003888001	14	67	19	Female	Anirwin	
+True	-0.046656	7	0.003888001	14	67	19	Female	Anirwin	
+False	0.042768	7	0.003888001	14	67	19	Female	Anirwin	
+True	-0.04665601	1	0.002332801	14	67	19	Female	Anirwin	
+True	0.04432321	2	0.002332801	14	67	19	Female	Anirwin	
+True	-0.04199041	3	0.002332801	14	67	19	Female	Anirwin	
+True	0.03965761	4	0.002332801	14	67	19	Female	Anirwin	
+False	-0.03732481	4	0.002332801	14	67	19	Female	Anirwin	
+True	0.03499201	5	0.002332801	14	67	19	Female	Anirwin	
+False	-0.03265921	5	0.002332801	14	67	19	Female	Anirwin	
+True	0.03032641	6	0.002332801	14	67	19	Female	Anirwin	
+True	-0.02799361	7	0.002332801	14	67	19	Female	Anirwin	
+False	0.02566081	7	0.002332801	14	67	19	Female	Anirwin	
+True	-0.02799361	1	0.00139968	14	67	19	Female	Anirwin	
+False	0.02659393	1	0.00139968	14	67	19	Female	Anirwin	
+True	-0.02519424	2	0.00139968	14	67	19	Female	Anirwin	
+True	0.02379456	3	0.00139968	14	67	19	Female	Anirwin	
+False	-0.02239488	3	0.00139968	14	67	19	Female	Anirwin	
+True	0.0209952	4	0.00139968	14	67	19	Female	Anirwin	
+True	-0.01959552	5	0.00139968	14	67	19	Female	Anirwin	
+True	0.01819584	6	0.00139968	14	67	19	Female	Anirwin	
+False	-0.01679616	6	0.00139968	14	67	19	Female	Anirwin	
+True	0.01539648	7	0.00139968	14	67	19	Female	Anirwin	
+False	-0.01679616	0	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01595636	0	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01511655	0	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01427674	0	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01343693	1	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01259712	2	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01175732	3	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01091751	4	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.0100777	5	0.0008398083	14	67	19	Female	Anirwin	
+False	0.009237891	5	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01679616	1	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01595636	1	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01511655	2	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01427674	3	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01343693	4	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01259712	4	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01175732	4	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01091751	4	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.0100777	5	0.0008398083	14	67	19	Female	Anirwin	
+False	0.009237891	5	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01679616	0	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01595636	0	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01511655	1	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01427674	1	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01343693	1	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01259712	1	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01175732	1	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01091751	1	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.0100777	1	0.0008398083	14	67	19	Female	Anirwin	
+True	0.009237891	2	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01679616	1	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01595636	2	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01511655	3	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01427674	4	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.01343693	5	0.0008398083	14	67	19	Female	Anirwin	
+True	0.01259712	6	0.0008398083	14	67	19	Female	Anirwin	
+False	-0.01175732	6	0.0008398083	14	67	19	Female	Anirwin	
+False	0.01091751	6	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.0100777	7	0.0008398083	14	67	19	Female	Anirwin	
+True	0.009237891	8	0.0008398083	14	67	19	Female	Anirwin	
+True	-0.0100777	1	0.000503885	14	67	19	Female	Anirwin	
+True	0.009573814	2	0.000503885	14	67	19	Female	Anirwin	
+False	-0.00906993	2	0.000503885	14	67	19	Female	Anirwin	
+True	0.008566045	3	0.000503885	14	67	19	Female	Anirwin	
+False	-0.008062161	3	0.000503885	14	67	19	Female	Anirwin	
+False	0.007558275	3	0.000503885	14	67	19	Female	Anirwin	
+True	-0.00705439	4	0.000503885	14	67	19	Female	Anirwin	
+True	0.006550505	5	0.000503885	14	67	19	Female	Anirwin	
+True	-0.00604662	6	0.000503885	14	67	19	Female	Anirwin	
+True	0.005542735	7	0.000503885	14	67	19	Female	Anirwin	
+False	-0.00604662	0	0.000302331	14	67	19	Female	Anirwin	
+True	0.005744289	1	0.000302331	14	67	19	Female	Anirwin	
+False	-0.005441958	1	0.000302331	14	67	19	Female	Anirwin	
+True	0.005139627	2	0.000302331	14	67	19	Female	Anirwin	
+True	-0.004837296	3	0.000302331	14	67	19	Female	Anirwin	
+False	0.004534964	3	0.000302331	14	67	19	Female	Anirwin	
+True	-0.004232633	4	0.000302331	14	67	19	Female	Anirwin	
+True	0.003930302	5	0.000302331	14	67	19	Female	Anirwin	
+True	-0.003627971	6	0.000302331	14	67	19	Female	Anirwin	
+True	0.00332564	7	0.000302331	14	67	19	Female	Anirwin	
+False	-0.003627972	0	0.0001813986	14	67	19	Female	Anirwin	
+True	0.003446573	1	0.0001813986	14	67	19	Female	Anirwin	
+False	-0.003265175	1	0.0001813986	14	67	19	Female	Anirwin	
+False	0.003083776	1	0.0001813986	14	67	19	Female	Anirwin	
+True	-0.002902378	2	0.0001813986	14	67	19	Female	Anirwin	
+True	0.002720979	3	0.0001813986	14	67	19	Female	Anirwin	
+False	-0.00253958	3	0.0001813986	14	67	19	Female	Anirwin	
+False	0.002358182	3	0.0001813986	14	67	19	Female	Anirwin	
+False	-0.002176783	3	0.0001813986	14	67	19	Female	Anirwin	
+False	0.001995385	3	0.0001813986	14	67	19	Female	Anirwin	
+True	-1	1	0.05	15	66	18	Male	amr	
+True	0.95	2	0.05	15	66	18	Male	amr	
+True	-0.9	3	0.05	15	66	18	Male	amr	
+True	0.85	4	0.05	15	66	18	Male	amr	
+True	-0.8	5	0.05	15	66	18	Male	amr	
+True	0.7499999	6	0.05	15	66	18	Male	amr	
+True	-0.6999999	7	0.05	15	66	18	Male	amr	
+True	0.6499999	8	0.05	15	66	18	Male	amr	
+True	-0.5999999	9	0.05	15	66	18	Male	amr	
+True	0.5499999	10	0.05	15	66	18	Male	amr	
+True	-0.6	1	0.03	15	66	18	Male	amr	
+True	0.5700001	2	0.03	15	66	18	Male	amr	
+True	-0.5400001	3	0.03	15	66	18	Male	amr	
+True	0.5100001	4	0.03	15	66	18	Male	amr	
+False	-0.4800001	4	0.03	15	66	18	Male	amr	
+True	0.4500001	5	0.03	15	66	18	Male	amr	
+True	-0.4200001	6	0.03	15	66	18	Male	amr	
+True	0.3900001	7	0.03	15	66	18	Male	amr	
+True	-0.3600001	8	0.03	15	66	18	Male	amr	
+True	0.3300001	9	0.03	15	66	18	Male	amr	
+True	-0.36	1	0.018	15	66	18	Male	amr	
+True	0.342	2	0.018	15	66	18	Male	amr	
+True	-0.324	3	0.018	15	66	18	Male	amr	
+False	0.306	3	0.018	15	66	18	Male	amr	
+True	-0.288	4	0.018	15	66	18	Male	amr	
+True	0.27	5	0.018	15	66	18	Male	amr	
+True	-0.252	6	0.018	15	66	18	Male	amr	
+False	0.234	6	0.018	15	66	18	Male	amr	
+True	-0.216	7	0.018	15	66	18	Male	amr	
+False	0.198	7	0.018	15	66	18	Male	amr	
+True	-0.216	1	0.0108	15	66	18	Male	amr	
+False	0.2052	1	0.0108	15	66	18	Male	amr	
+True	-0.1944	2	0.0108	15	66	18	Male	amr	
+False	0.1836	2	0.0108	15	66	18	Male	amr	
+True	-0.1728	3	0.0108	15	66	18	Male	amr	
+True	0.162	4	0.0108	15	66	18	Male	amr	
+True	-0.1512	5	0.0108	15	66	18	Male	amr	
+False	0.1404	5	0.0108	15	66	18	Male	amr	
+False	-0.1296	5	0.0108	15	66	18	Male	amr	
+True	0.1188	6	0.0108	15	66	18	Male	amr	
+True	-0.216	1	0.0108	15	66	18	Male	amr	
+False	0.2052	1	0.0108	15	66	18	Male	amr	
+True	-0.1944	2	0.0108	15	66	18	Male	amr	
+True	0.1836	3	0.0108	15	66	18	Male	amr	
+False	-0.1728	3	0.0108	15	66	18	Male	amr	
+False	0.162	3	0.0108	15	66	18	Male	amr	
+True	-0.1512	4	0.0108	15	66	18	Male	amr	
+False	0.1404	4	0.0108	15	66	18	Male	amr	
+False	-0.1296	4	0.0108	15	66	18	Male	amr	
+True	0.1188	5	0.0108	15	66	18	Male	amr	
+True	-0.216	1	0.0108	15	66	18	Male	amr	
+True	0.2052	2	0.0108	15	66	18	Male	amr	
+False	-0.1944	2	0.0108	15	66	18	Male	amr	
+False	0.1836	2	0.0108	15	66	18	Male	amr	
+True	-0.1728	3	0.0108	15	66	18	Male	amr	
+False	0.162	3	0.0108	15	66	18	Male	amr	
+True	-0.1512	4	0.0108	15	66	18	Male	amr	
+True	0.1404	5	0.0108	15	66	18	Male	amr	
+True	-0.1296	6	0.0108	15	66	18	Male	amr	
+True	0.1188	7	0.0108	15	66	18	Male	amr	
+True	-0.1296	1	0.006480001	15	66	18	Male	amr	
+True	0.12312	2	0.006480001	15	66	18	Male	amr	
+True	-0.11664	3	0.006480001	15	66	18	Male	amr	
+True	0.11016	4	0.006480001	15	66	18	Male	amr	
+False	-0.10368	4	0.006480001	15	66	18	Male	amr	
+True	0.09720001	5	0.006480001	15	66	18	Male	amr	
+True	-0.09072001	6	0.006480001	15	66	18	Male	amr	
+True	0.08424001	7	0.006480001	15	66	18	Male	amr	
+True	-0.07776001	8	0.006480001	15	66	18	Male	amr	
+True	0.07128001	9	0.006480001	15	66	18	Male	amr	
+True	-0.07776001	1	0.003888001	15	66	18	Male	amr	
+False	0.07387201	1	0.003888001	15	66	18	Male	amr	
+False	-0.069984	1	0.003888001	15	66	18	Male	amr	
+True	0.066096	2	0.003888001	15	66	18	Male	amr	
+True	-0.062208	3	0.003888001	15	66	18	Male	amr	
+False	0.05832	3	0.003888001	15	66	18	Male	amr	
+False	-0.054432	3	0.003888001	15	66	18	Male	amr	
+True	0.050544	4	0.003888001	15	66	18	Male	amr	
+True	-0.046656	5	0.003888001	15	66	18	Male	amr	
+False	0.042768	5	0.003888001	15	66	18	Male	amr	
+False	-0.07776001	0	0.003888001	15	66	18	Male	amr	
+False	-1	0	0.05	16	65	19	Female	Anirwin	
+False	0.95	0	0.05	16	65	19	Female	Anirwin	
+True	-0.9	1	0.05	16	65	19	Female	Anirwin	
+True	0.85	2	0.05	16	65	19	Female	Anirwin	
+False	-0.8	2	0.05	16	65	19	Female	Anirwin	
+True	0.7499999	3	0.05	16	65	19	Female	Anirwin	
+False	-0.6999999	3	0.05	16	65	19	Female	Anirwin	
+True	0.6499999	4	0.05	16	65	19	Female	Anirwin	
+True	-0.5999999	5	0.05	16	65	19	Female	Anirwin	
+False	0.5499999	5	0.05	16	65	19	Female	Anirwin	
+True	-1	1	0.05	16	65	19	Female	Anirwin	
+True	0.95	2	0.05	16	65	19	Female	Anirwin	
+True	-0.9	3	0.05	16	65	19	Female	Anirwin	
+True	0.85	4	0.05	16	65	19	Female	Anirwin	
+True	-0.8	5	0.05	16	65	19	Female	Anirwin	
+True	0.7499999	6	0.05	16	65	19	Female	Anirwin	
+True	-0.6999999	7	0.05	16	65	19	Female	Anirwin	
+True	0.6499999	8	0.05	16	65	19	Female	Anirwin	
+True	-0.5999999	9	0.05	16	65	19	Female	Anirwin	
+True	0.5499999	10	0.05	16	65	19	Female	Anirwin	
+True	-0.6	1	0.03	16	65	19	Female	Anirwin	
+True	0.5700001	2	0.03	16	65	19	Female	Anirwin	
+True	-0.5400001	3	0.03	16	65	19	Female	Anirwin	
+True	0.5100001	4	0.03	16	65	19	Female	Anirwin	
+True	-0.4800001	5	0.03	16	65	19	Female	Anirwin	
+True	0.4500001	6	0.03	16	65	19	Female	Anirwin	
+True	-0.4200001	7	0.03	16	65	19	Female	Anirwin	
+True	0.3900001	8	0.03	16	65	19	Female	Anirwin	
+True	-0.3600001	9	0.03	16	65	19	Female	Anirwin	
+True	0.3300001	10	0.03	16	65	19	Female	Anirwin	
+True	-0.36	1	0.018	16	65	19	Female	Anirwin	
+True	0.342	2	0.018	16	65	19	Female	Anirwin	
+True	-0.324	3	0.018	16	65	19	Female	Anirwin	
+True	0.306	4	0.018	16	65	19	Female	Anirwin	
+True	-0.288	5	0.018	16	65	19	Female	Anirwin	
+True	0.27	6	0.018	16	65	19	Female	Anirwin	
+True	-0.252	7	0.018	16	65	19	Female	Anirwin	
+True	0.234	8	0.018	16	65	19	Female	Anirwin	
+True	-0.216	9	0.018	16	65	19	Female	Anirwin	
+False	0.198	9	0.018	16	65	19	Female	Anirwin	
+True	-0.216	1	0.0108	16	65	19	Female	Anirwin	
+True	0.2052	2	0.0108	16	65	19	Female	Anirwin	
+True	-0.1944	3	0.0108	16	65	19	Female	Anirwin	
+True	0.1836	4	0.0108	16	65	19	Female	Anirwin	
+True	-0.1728	5	0.0108	16	65	19	Female	Anirwin	
+True	0.162	6	0.0108	16	65	19	Female	Anirwin	
+True	-0.1512	7	0.0108	16	65	19	Female	Anirwin	
+True	0.1404	8	0.0108	16	65	19	Female	Anirwin	
+True	-0.1296	9	0.0108	16	65	19	Female	Anirwin	
+True	0.1188	10	0.0108	16	65	19	Female	Anirwin	
+False	-0.1296	0	0.006480001	16	65	19	Female	Anirwin	
+True	0.12312	1	0.006480001	16	65	19	Female	Anirwin	
+False	-0.11664	1	0.006480001	16	65	19	Female	Anirwin	
+False	0.11016	1	0.006480001	16	65	19	Female	Anirwin	
+True	-0.10368	2	0.006480001	16	65	19	Female	Anirwin	
+True	0.09720001	3	0.006480001	16	65	19	Female	Anirwin	
+True	-0.09072001	4	0.006480001	16	65	19	Female	Anirwin	
+True	0.08424001	5	0.006480001	16	65	19	Female	Anirwin	
+False	-0.07776001	5	0.006480001	16	65	19	Female	Anirwin	
+True	0.07128001	6	0.006480001	16	65	19	Female	Anirwin	
+True	-0.1296	1	0.006480001	16	65	19	Female	Anirwin	
+True	0.12312	2	0.006480001	16	65	19	Female	Anirwin	
+True	-0.11664	3	0.006480001	16	65	19	Female	Anirwin	
+True	0.11016	4	0.006480001	16	65	19	Female	Anirwin	
+True	-0.10368	5	0.006480001	16	65	19	Female	Anirwin	
+False	0.09720001	5	0.006480001	16	65	19	Female	Anirwin	
+False	-0.09072001	5	0.006480001	16	65	19	Female	Anirwin	
+False	0.08424001	5	0.006480001	16	65	19	Female	Anirwin	
+False	-0.07776001	5	0.006480001	16	65	19	Female	Anirwin	
+True	0.07128001	6	0.006480001	16	65	19	Female	Anirwin	
+True	-0.1296	1	0.006480001	16	65	19	Female	Anirwin	
+True	0.12312	2	0.006480001	16	65	19	Female	Anirwin	
+True	-0.11664	3	0.006480001	16	65	19	Female	Anirwin	
+True	0.11016	4	0.006480001	16	65	19	Female	Anirwin	
+False	-0.10368	4	0.006480001	16	65	19	Female	Anirwin	
+True	0.09720001	5	0.006480001	16	65	19	Female	Anirwin	
+False	-0.09072001	5	0.006480001	16	65	19	Female	Anirwin	
+True	0.08424001	6	0.006480001	16	65	19	Female	Anirwin	
+True	-0.07776001	7	0.006480001	16	65	19	Female	Anirwin	
+True	0.07128001	8	0.006480001	16	65	19	Female	Anirwin	
+True	-0.07776001	1	0.003888001	16	65	19	Female	Anirwin	
+True	0.07387201	2	0.003888001	16	65	19	Female	Anirwin	
+True	-0.069984	3	0.003888001	16	65	19	Female	Anirwin	
+True	0.066096	4	0.003888001	16	65	19	Female	Anirwin	
+False	-0.062208	4	0.003888001	16	65	19	Female	Anirwin	
+True	0.05832	5	0.003888001	16	65	19	Female	Anirwin	
+False	-0.054432	5	0.003888001	16	65	19	Female	Anirwin	
+True	0.050544	6	0.003888001	16	65	19	Female	Anirwin	
+False	-0.046656	6	0.003888001	16	65	19	Female	Anirwin	
+False	0.042768	6	0.003888001	16	65	19	Female	Anirwin	
+True	-1	1	0.05	17	69	20	Male	Elizabeth	
+True	0.95	2	0.05	17	69	20	Male	Elizabeth	
+True	-0.9	3	0.05	17	69	20	Male	Elizabeth	
+True	0.85	4	0.05	17	69	20	Male	Elizabeth	
+True	-0.8	5	0.05	17	69	20	Male	Elizabeth	
+True	0.7499999	6	0.05	17	69	20	Male	Elizabeth	
+True	-0.6999999	7	0.05	17	69	20	Male	Elizabeth	
+False	0.6499999	7	0.05	17	69	20	Male	Elizabeth	
+True	-0.5999999	8	0.05	17	69	20	Male	Elizabeth	
+True	0.5499999	9	0.05	17	69	20	Male	Elizabeth	
+True	-0.6	1	0.03	17	69	20	Male	Elizabeth	
+True	0.5700001	2	0.03	17	69	20	Male	Elizabeth	
+True	-0.5400001	3	0.03	17	69	20	Male	Elizabeth	
+True	0.5100001	4	0.03	17	69	20	Male	Elizabeth	
+True	-0.4800001	5	0.03	17	69	20	Male	Elizabeth	
+True	0.4500001	6	0.03	17	69	20	Male	Elizabeth	
+True	-0.4200001	7	0.03	17	69	20	Male	Elizabeth	
+True	0.3900001	8	0.03	17	69	20	Male	Elizabeth	
+True	-0.3600001	9	0.03	17	69	20	Male	Elizabeth	
+True	0.3300001	10	0.03	17	69	20	Male	Elizabeth	
+True	-0.36	1	0.018	17	69	20	Male	Elizabeth	
+True	0.342	2	0.018	17	69	20	Male	Elizabeth	
+True	-0.324	3	0.018	17	69	20	Male	Elizabeth	
+True	0.306	4	0.018	17	69	20	Male	Elizabeth	
+True	-0.288	5	0.018	17	69	20	Male	Elizabeth	
+True	0.27	6	0.018	17	69	20	Male	Elizabeth	
+True	-0.252	7	0.018	17	69	20	Male	Elizabeth	
+True	0.234	8	0.018	17	69	20	Male	Elizabeth	
+True	-0.216	9	0.018	17	69	20	Male	Elizabeth	
+True	0.198	10	0.018	17	69	20	Male	Elizabeth	
+True	-0.216	1	0.0108	17	69	20	Male	Elizabeth	
+True	0.2052	2	0.0108	17	69	20	Male	Elizabeth	
+True	-0.1944	3	0.0108	17	69	20	Male	Elizabeth	
+True	0.1836	4	0.0108	17	69	20	Male	Elizabeth	
+True	-0.1728	5	0.0108	17	69	20	Male	Elizabeth	
+False	0.162	5	0.0108	17	69	20	Male	Elizabeth	
+True	-0.1512	6	0.0108	17	69	20	Male	Elizabeth	
+False	0.1404	6	0.0108	17	69	20	Male	Elizabeth	
+True	-0.1296	7	0.0108	17	69	20	Male	Elizabeth	
+True	0.1188	8	0.0108	17	69	20	Male	Elizabeth	
+True	-0.1296	1	0.006480001	17	69	20	Male	Elizabeth	
+True	0.12312	2	0.006480001	17	69	20	Male	Elizabeth	
+False	-0.11664	2	0.006480001	17	69	20	Male	Elizabeth	
+True	0.11016	3	0.006480001	17	69	20	Male	Elizabeth	
+False	-0.10368	3	0.006480001	17	69	20	Male	Elizabeth	
+False	0.09720001	3	0.006480001	17	69	20	Male	Elizabeth	
+False	-0.09072001	3	0.006480001	17	69	20	Male	Elizabeth	
+True	0.08424001	4	0.006480001	17	69	20	Male	Elizabeth	
+True	-0.07776001	5	0.006480001	17	69	20	Male	Elizabeth	
+True	0.07128001	6	0.006480001	17	69	20	Male	Elizabeth	
+True	-0.1296	1	0.006480001	17	69	20	Male	Elizabeth	
+True	0.12312	2	0.006480001	17	69	20	Male	Elizabeth	
+False	-0.11664	2	0.006480001	17	69	20	Male	Elizabeth	
+True	0.11016	3	0.006480001	17	69	20	Male	Elizabeth	
+True	-0.10368	4	0.006480001	17	69	20	Male	Elizabeth	
+True	0.09720001	5	0.006480001	17	69	20	Male	Elizabeth	
+True	-0.09072001	6	0.006480001	17	69	20	Male	Elizabeth	
+True	0.08424001	7	0.006480001	17	69	20	Male	Elizabeth	
+False	-0.07776001	7	0.006480001	17	69	20	Male	Elizabeth	
+True	0.07128001	8	0.006480001	17	69	20	Male	Elizabeth	
+True	-0.07776001	1	0.003888001	17	69	20	Male	Elizabeth	
+True	0.07387201	2	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.069984	2	0.003888001	17	69	20	Male	Elizabeth	
+False	0.066096	2	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.062208	2	0.003888001	17	69	20	Male	Elizabeth	
+False	0.05832	2	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.054432	2	0.003888001	17	69	20	Male	Elizabeth	
+True	0.050544	3	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.046656	3	0.003888001	17	69	20	Male	Elizabeth	
+True	0.042768	4	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.07776001	0	0.003888001	17	69	20	Male	Elizabeth	
+True	0.07387201	1	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.069984	1	0.003888001	17	69	20	Male	Elizabeth	
+True	0.066096	2	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.062208	2	0.003888001	17	69	20	Male	Elizabeth	
+True	0.05832	3	0.003888001	17	69	20	Male	Elizabeth	
+True	-0.054432	4	0.003888001	17	69	20	Male	Elizabeth	
+False	0.050544	4	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.046656	4	0.003888001	17	69	20	Male	Elizabeth	
+False	0.042768	4	0.003888001	17	69	20	Male	Elizabeth	
+True	-0.07776001	1	0.003888001	17	69	20	Male	Elizabeth	
+True	0.07387201	2	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.069984	2	0.003888001	17	69	20	Male	Elizabeth	
+False	0.066096	2	0.003888001	17	69	20	Male	Elizabeth	
+True	-0.062208	3	0.003888001	17	69	20	Male	Elizabeth	
+True	0.05832	4	0.003888001	17	69	20	Male	Elizabeth	
+False	-0.054432	4	0.003888001	17	69	20	Male	Elizabeth	
+True	0.050544	5	0.003888001	17	69	20	Male	Elizabeth	
+True	-0.046656	6	0.003888001	17	69	20	Male	Elizabeth	
+True	0.042768	7	0.003888001	17	69	20	Male	Elizabeth	
+True	-0.04665601	1	0.002332801	17	69	20	Male	Elizabeth	
+False	0.04432321	1	0.002332801	17	69	20	Male	Elizabeth	
+False	-0.04199041	1	0.002332801	17	69	20	Male	Elizabeth	
+True	0.03965761	2	0.002332801	17	69	20	Male	Elizabeth	
+False	-0.03732481	2	0.002332801	17	69	20	Male	Elizabeth	
+True	0.03499201	3	0.002332801	17	69	20	Male	Elizabeth	
+False	-0.03265921	3	0.002332801	17	69	20	Male	Elizabeth	
+False	0.03032641	3	0.002332801	17	69	20	Male	Elizabeth	
+True	-0.02799361	4	0.002332801	17	69	20	Male	Elizabeth	
+True	0.02566081	5	0.002332801	17	69	20	Male	Elizabeth	
+True	-1	1	0.05	18	70	19	Male	Mayela	
+True	0.95	2	0.05	18	70	19	Male	Mayela	
+True	-0.9	3	0.05	18	70	19	Male	Mayela	
+True	0.85	4	0.05	18	70	19	Male	Mayela	
+True	-0.8	5	0.05	18	70	19	Male	Mayela	
+True	0.7499999	6	0.05	18	70	19	Male	Mayela	
+True	-0.6999999	7	0.05	18	70	19	Male	Mayela	
+True	0.6499999	8	0.05	18	70	19	Male	Mayela	
+True	-0.5999999	9	0.05	18	70	19	Male	Mayela	
+True	0.5499999	10	0.05	18	70	19	Male	Mayela	
+True	-0.6	1	0.03	18	70	19	Male	Mayela	
+False	0.5700001	1	0.03	18	70	19	Male	Mayela	
+True	-0.5400001	2	0.03	18	70	19	Male	Mayela	
+True	0.5100001	3	0.03	18	70	19	Male	Mayela	
+True	-0.4800001	4	0.03	18	70	19	Male	Mayela	
+True	0.4500001	5	0.03	18	70	19	Male	Mayela	
+True	-0.4200001	6	0.03	18	70	19	Male	Mayela	
+True	0.3900001	7	0.03	18	70	19	Male	Mayela	
+True	-0.3600001	8	0.03	18	70	19	Male	Mayela	
+True	0.3300001	9	0.03	18	70	19	Male	Mayela	
+True	-0.36	1	0.018	18	70	19	Male	Mayela	
+True	0.342	2	0.018	18	70	19	Male	Mayela	
+True	-0.324	3	0.018	18	70	19	Male	Mayela	
+True	0.306	4	0.018	18	70	19	Male	Mayela	
+True	-0.288	5	0.018	18	70	19	Male	Mayela	
+True	0.27	6	0.018	18	70	19	Male	Mayela	
+True	-0.252	7	0.018	18	70	19	Male	Mayela	
+True	0.234	8	0.018	18	70	19	Male	Mayela	
+True	-0.216	9	0.018	18	70	19	Male	Mayela	
+True	0.198	10	0.018	18	70	19	Male	Mayela	
+True	-0.216	1	0.0108	18	70	19	Male	Mayela	
+True	0.2052	2	0.0108	18	70	19	Male	Mayela	
+True	-0.1944	3	0.0108	18	70	19	Male	Mayela	
+True	0.1836	4	0.0108	18	70	19	Male	Mayela	
+True	-0.1728	5	0.0108	18	70	19	Male	Mayela	
+True	0.162	6	0.0108	18	70	19	Male	Mayela	
+True	-0.1512	7	0.0108	18	70	19	Male	Mayela	
+False	0.1404	7	0.0108	18	70	19	Male	Mayela	
+True	-0.1296	8	0.0108	18	70	19	Male	Mayela	
+True	0.1188	9	0.0108	18	70	19	Male	Mayela	
+True	-0.1296	1	0.006480001	18	70	19	Male	Mayela	
+False	0.12312	1	0.006480001	18	70	19	Male	Mayela	
+True	-0.11664	2	0.006480001	18	70	19	Male	Mayela	
+True	0.11016	3	0.006480001	18	70	19	Male	Mayela	
+True	-0.10368	4	0.006480001	18	70	19	Male	Mayela	
+True	0.09720001	5	0.006480001	18	70	19	Male	Mayela	
+True	-0.09072001	6	0.006480001	18	70	19	Male	Mayela	
+True	0.08424001	7	0.006480001	18	70	19	Male	Mayela	
+False	-0.07776001	7	0.006480001	18	70	19	Male	Mayela	
+True	0.07128001	8	0.006480001	18	70	19	Male	Mayela	
+False	-0.07776001	0	0.003888001	18	70	19	Male	Mayela	
+False	0.07387201	0	0.003888001	18	70	19	Male	Mayela	
+True	-0.069984	1	0.003888001	18	70	19	Male	Mayela	
+True	0.066096	2	0.003888001	18	70	19	Male	Mayela	
+True	-0.062208	3	0.003888001	18	70	19	Male	Mayela	
+False	0.05832	3	0.003888001	18	70	19	Male	Mayela	
+False	-0.054432	3	0.003888001	18	70	19	Male	Mayela	
+False	0.050544	3	0.003888001	18	70	19	Male	Mayela	
+False	-0.046656	3	0.003888001	18	70	19	Male	Mayela	
+False	0.042768	3	0.003888001	18	70	19	Male	Mayela	
+False	-0.07776001	0	0.003888001	18	70	19	Male	Mayela	
+False	0.07387201	0	0.003888001	18	70	19	Male	Mayela	
+True	-0.069984	1	0.003888001	18	70	19	Male	Mayela	
+True	0.066096	2	0.003888001	18	70	19	Male	Mayela	
+False	-0.062208	2	0.003888001	18	70	19	Male	Mayela	
+True	0.05832	3	0.003888001	18	70	19	Male	Mayela	
+True	-0.054432	4	0.003888001	18	70	19	Male	Mayela	
+False	0.050544	4	0.003888001	18	70	19	Male	Mayela	
+False	-0.046656	4	0.003888001	18	70	19	Male	Mayela	
+False	0.042768	4	0.003888001	18	70	19	Male	Mayela	
+False	-0.07776001	0	0.003888001	18	70	19	Male	Mayela	
+False	0.07387201	0	0.003888001	18	70	19	Male	Mayela	
+True	-0.069984	1	0.003888001	18	70	19	Male	Mayela	
+True	0.066096	2	0.003888001	18	70	19	Male	Mayela	
+False	-0.062208	2	0.003888001	18	70	19	Male	Mayela	
+True	0.05832	3	0.003888001	18	70	19	Male	Mayela	
+False	-0.054432	3	0.003888001	18	70	19	Male	Mayela	
+False	0.050544	3	0.003888001	18	70	19	Male	Mayela	
+False	-0.046656	3	0.003888001	18	70	19	Male	Mayela	
+True	0.042768	4	0.003888001	18	70	19	Male	Mayela	
+True	-0.07776001	1	0.003888001	18	70	19	Male	Mayela	
+False	0.07387201	1	0.003888001	18	70	19	Male	Mayela	
+False	-0.069984	1	0.003888001	18	70	19	Male	Mayela	
+False	0.066096	1	0.003888001	18	70	19	Male	Mayela	
+True	-0.062208	2	0.003888001	18	70	19	Male	Mayela	
+True	0.05832	3	0.003888001	18	70	19	Male	Mayela	
+True	-0.054432	4	0.003888001	18	70	19	Male	Mayela	
+True	0.050544	5	0.003888001	18	70	19	Male	Mayela	
+False	-0.046656	5	0.003888001	18	70	19	Male	Mayela	
+False	0.042768	5	0.003888001	18	70	19	Male	Mayela	
+True	-1	1	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	0.95	2	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	-0.9	3	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	0.85	4	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	-0.8	5	0.05	19	64	22	Female	Anirwin	experienced vr before
+False	0.7499999	5	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	-0.6999999	6	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	0.6499999	7	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	-0.5999999	8	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	0.5499999	9	0.05	19	64	22	Female	Anirwin	experienced vr before
+True	-0.6	1	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	0.5700001	2	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	-0.5400001	3	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	0.5100001	4	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	-0.4800001	5	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	0.4500001	6	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	-0.4200001	7	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	0.3900001	8	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	-0.3600001	9	0.03	19	64	22	Female	Anirwin	experienced vr before
+False	0.3300001	9	0.03	19	64	22	Female	Anirwin	experienced vr before
+True	-0.36	1	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	0.342	2	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	-0.324	3	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	0.306	4	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	-0.288	5	0.018	19	64	22	Female	Anirwin	experienced vr before
+False	0.27	5	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	-0.252	6	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	0.234	7	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	-0.216	8	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	0.198	9	0.018	19	64	22	Female	Anirwin	experienced vr before
+True	-0.216	1	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	0.2052	2	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	-0.1944	3	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	0.1836	4	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	-0.1728	5	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	0.162	6	0.0108	19	64	22	Female	Anirwin	experienced vr before
+False	-0.1512	6	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	0.1404	7	0.0108	19	64	22	Female	Anirwin	experienced vr before
+False	-0.1296	7	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	0.1188	8	0.0108	19	64	22	Female	Anirwin	experienced vr before
+True	-0.1296	1	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	0.12312	2	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.11664	3	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	0.11016	4	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.10368	5	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	0.09720001	6	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.09072001	6	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	0.08424001	7	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.07776001	8	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+False	0.07128001	8	0.006480001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.07776001	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.07387201	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.069984	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.066096	2	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.062208	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.05832	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.054432	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.050544	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.046656	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.042768	5	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.07776001	0	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.07387201	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.069984	2	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.066096	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.062208	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.05832	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.054432	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.050544	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.046656	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.042768	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.07776001	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.07387201	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.069984	2	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.066096	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.062208	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.05832	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.054432	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.050544	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.046656	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.042768	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.07776001	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.07387201	1	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	-0.069984	2	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.066096	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.062208	3	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+True	0.05832	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.054432	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.050544	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	-0.046656	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	0.042768	4	0.003888001	19	64	22	Female	Anirwin	experienced vr before
+False	1	0	0.05	20	67	18	Male	Eva	
+True	-0.95	1	0.05	20	67	18	Male	Eva	
+False	0.9	1	0.05	20	67	18	Male	Eva	
+True	-0.85	2	0.05	20	67	18	Male	Eva	
+True	0.8	3	0.05	20	67	18	Male	Eva	
+True	-0.7499999	4	0.05	20	67	18	Male	Eva	
+False	0.6999999	4	0.05	20	67	18	Male	Eva	
+True	-0.6499999	5	0.05	20	67	18	Male	Eva	
+False	0.5999999	5	0.05	20	67	18	Male	Eva	
+True	-0.5499999	6	0.05	20	67	18	Male	Eva	
+True	1	1	0.05	20	67	18	Male	Eva	
+True	-0.95	2	0.05	20	67	18	Male	Eva	
+True	0.9	3	0.05	20	67	18	Male	Eva	
+True	-0.85	4	0.05	20	67	18	Male	Eva	
+False	0.8	4	0.05	20	67	18	Male	Eva	
+True	-0.7499999	5	0.05	20	67	18	Male	Eva	
+True	0.6999999	6	0.05	20	67	18	Male	Eva	
+True	-0.6499999	7	0.05	20	67	18	Male	Eva	
+True	0.5999999	8	0.05	20	67	18	Male	Eva	
+True	-0.5499999	9	0.05	20	67	18	Male	Eva	
+False	0.6	0	0.03	20	67	18	Male	Eva	
+True	-0.5700001	1	0.03	20	67	18	Male	Eva	
+True	0.5400001	2	0.03	20	67	18	Male	Eva	
+True	-0.5100001	3	0.03	20	67	18	Male	Eva	
+False	0.4800001	3	0.03	20	67	18	Male	Eva	
+True	-0.4500001	4	0.03	20	67	18	Male	Eva	
+False	0.4200001	4	0.03	20	67	18	Male	Eva	
+True	-0.3900001	5	0.03	20	67	18	Male	Eva	
+False	0.3600001	5	0.03	20	67	18	Male	Eva	
+False	-0.3300001	5	0.03	20	67	18	Male	Eva	
+False	0.6	0	0.03	20	67	18	Male	Eva	
+True	-0.5700001	1	0.03	20	67	18	Male	Eva	
+False	0.5400001	1	0.03	20	67	18	Male	Eva	
+True	-0.5100001	2	0.03	20	67	18	Male	Eva	
+True	0.4800001	3	0.03	20	67	18	Male	Eva	
+True	-0.4500001	4	0.03	20	67	18	Male	Eva	
+True	0.4200001	5	0.03	20	67	18	Male	Eva	
+True	-0.3900001	6	0.03	20	67	18	Male	Eva	
+True	0.3600001	7	0.03	20	67	18	Male	Eva	
+True	-0.3300001	8	0.03	20	67	18	Male	Eva	
+False	0.36	0	0.018	20	67	18	Male	Eva	
+True	-0.342	1	0.018	20	67	18	Male	Eva	
+True	0.324	2	0.018	20	67	18	Male	Eva	
+True	-0.306	3	0.018	20	67	18	Male	Eva	
+False	0.288	3	0.018	20	67	18	Male	Eva	
+True	-0.27	4	0.018	20	67	18	Male	Eva	
+False	0.252	4	0.018	20	67	18	Male	Eva	
+False	-0.234	4	0.018	20	67	18	Male	Eva	
+False	0.216	4	0.018	20	67	18	Male	Eva	
+True	-0.198	5	0.018	20	67	18	Male	Eva	
+True	0.36	1	0.018	20	67	18	Male	Eva	
+True	-0.342	2	0.018	20	67	18	Male	Eva	
+True	0.324	3	0.018	20	67	18	Male	Eva	
+True	-0.306	4	0.018	20	67	18	Male	Eva	
+False	0.288	4	0.018	20	67	18	Male	Eva	
+False	-0.27	4	0.018	20	67	18	Male	Eva	
+True	0.252	5	0.018	20	67	18	Male	Eva	
+True	-0.234	6	0.018	20	67	18	Male	Eva	
+True	0.216	7	0.018	20	67	18	Male	Eva	
+True	-0.198	8	0.018	20	67	18	Male	Eva	
+True	0.216	1	0.0108	20	67	18	Male	Eva	
+True	-0.2052	2	0.0108	20	67	18	Male	Eva	
+True	0.1944	3	0.0108	20	67	18	Male	Eva	
+True	-0.1836	4	0.0108	20	67	18	Male	Eva	
+False	0.1728	4	0.0108	20	67	18	Male	Eva	
+True	-0.162	5	0.0108	20	67	18	Male	Eva	
+False	0.1512	5	0.0108	20	67	18	Male	Eva	
+True	-0.1404	6	0.0108	20	67	18	Male	Eva	
+True	0.1296	7	0.0108	20	67	18	Male	Eva	
+True	-0.1188	8	0.0108	20	67	18	Male	Eva	
+True	0.1296	1	0.006480001	20	67	18	Male	Eva	
+True	-0.12312	2	0.006480001	20	67	18	Male	Eva	
+True	0.11664	3	0.006480001	20	67	18	Male	Eva	
+True	-0.11016	4	0.006480001	20	67	18	Male	Eva	
+True	0.10368	5	0.006480001	20	67	18	Male	Eva	
+True	-0.09720001	6	0.006480001	20	67	18	Male	Eva	
+False	0.09072001	6	0.006480001	20	67	18	Male	Eva	
+False	-0.08424001	6	0.006480001	20	67	18	Male	Eva	
+False	0.07776001	6	0.006480001	20	67	18	Male	Eva	
+True	-0.07128001	7	0.006480001	20	67	18	Male	Eva	
+True	0.07776001	1	0.003888001	20	67	18	Male	Eva	
+True	-0.07387201	2	0.003888001	20	67	18	Male	Eva	
+False	0.069984	2	0.003888001	20	67	18	Male	Eva	
+True	-0.066096	3	0.003888001	20	67	18	Male	Eva	
+False	0.062208	3	0.003888001	20	67	18	Male	Eva	
+False	-0.05832	3	0.003888001	20	67	18	Male	Eva	
+False	0.054432	3	0.003888001	20	67	18	Male	Eva	
+True	-0.050544	4	0.003888001	20	67	18	Male	Eva	
+False	0.046656	4	0.003888001	20	67	18	Male	Eva	
+False	-0.042768	4	0.003888001	20	67	18	Male	Eva	
+False	1	0	0.05	21	67	19	Female	Elizabeth	
+True	-0.95	1	0.05	21	67	19	Female	Elizabeth	
+False	0.9	1	0.05	21	67	19	Female	Elizabeth	
+True	-0.85	2	0.05	21	67	19	Female	Elizabeth	
+True	0.8	3	0.05	21	67	19	Female	Elizabeth	
+True	-0.7499999	4	0.05	21	67	19	Female	Elizabeth	
+True	0.6999999	5	0.05	21	67	19	Female	Elizabeth	
+True	-0.6499999	6	0.05	21	67	19	Female	Elizabeth	
+True	0.5999999	7	0.05	21	67	19	Female	Elizabeth	
+True	-0.5499999	8	0.05	21	67	19	Female	Elizabeth	
+True	0.6	1	0.03	21	67	19	Female	Elizabeth	
+True	-0.5700001	2	0.03	21	67	19	Female	Elizabeth	
+True	0.5400001	3	0.03	21	67	19	Female	Elizabeth	
+True	-0.5100001	4	0.03	21	67	19	Female	Elizabeth	
+True	0.4800001	5	0.03	21	67	19	Female	Elizabeth	
+True	-0.4500001	6	0.03	21	67	19	Female	Elizabeth	
+False	0.4200001	6	0.03	21	67	19	Female	Elizabeth	
+True	-0.3900001	7	0.03	21	67	19	Female	Elizabeth	
+True	0.3600001	8	0.03	21	67	19	Female	Elizabeth	
+False	-0.3300001	8	0.03	21	67	19	Female	Elizabeth	
+False	0.36	0	0.018	21	67	19	Female	Elizabeth	
+True	-0.342	1	0.018	21	67	19	Female	Elizabeth	
+True	0.324	2	0.018	21	67	19	Female	Elizabeth	
+False	-0.306	2	0.018	21	67	19	Female	Elizabeth	
+False	0.288	2	0.018	21	67	19	Female	Elizabeth	
+False	-0.27	2	0.018	21	67	19	Female	Elizabeth	
+False	0.252	2	0.018	21	67	19	Female	Elizabeth	
+True	-0.234	3	0.018	21	67	19	Female	Elizabeth	
+True	0.216	4	0.018	21	67	19	Female	Elizabeth	
+True	-0.198	5	0.018	21	67	19	Female	Elizabeth	
+True	0.36	1	0.018	21	67	19	Female	Elizabeth	
+True	-0.342	2	0.018	21	67	19	Female	Elizabeth	
+True	0.324	3	0.018	21	67	19	Female	Elizabeth	
+True	-0.306	4	0.018	21	67	19	Female	Elizabeth	
+False	0.288	4	0.018	21	67	19	Female	Elizabeth	
+True	-0.27	5	0.018	21	67	19	Female	Elizabeth	
+False	0.252	5	0.018	21	67	19	Female	Elizabeth	
+True	-0.234	6	0.018	21	67	19	Female	Elizabeth	
+False	0.216	6	0.018	21	67	19	Female	Elizabeth	
+True	-0.198	7	0.018	21	67	19	Female	Elizabeth	
+False	0.216	0	0.0108	21	67	19	Female	Elizabeth	
+True	-0.2052	1	0.0108	21	67	19	Female	Elizabeth	
+False	0.1944	1	0.0108	21	67	19	Female	Elizabeth	
+False	-0.1836	1	0.0108	21	67	19	Female	Elizabeth	
+True	0.1728	2	0.0108	21	67	19	Female	Elizabeth	
+True	-0.162	3	0.0108	21	67	19	Female	Elizabeth	
+False	0.1512	3	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1404	4	0.0108	21	67	19	Female	Elizabeth	
+True	0.1296	5	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1188	6	0.0108	21	67	19	Female	Elizabeth	
+False	0.216	0	0.0108	21	67	19	Female	Elizabeth	
+True	-0.2052	1	0.0108	21	67	19	Female	Elizabeth	
+True	0.1944	2	0.0108	21	67	19	Female	Elizabeth	
+False	-0.1836	2	0.0108	21	67	19	Female	Elizabeth	
+False	0.1728	2	0.0108	21	67	19	Female	Elizabeth	
+True	-0.162	3	0.0108	21	67	19	Female	Elizabeth	
+True	0.1512	4	0.0108	21	67	19	Female	Elizabeth	
+False	-0.1404	4	0.0108	21	67	19	Female	Elizabeth	
+True	0.1296	5	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1188	6	0.0108	21	67	19	Female	Elizabeth	
+False	0.216	0	0.0108	21	67	19	Female	Elizabeth	
+True	-0.2052	1	0.0108	21	67	19	Female	Elizabeth	
+True	0.1944	2	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1836	3	0.0108	21	67	19	Female	Elizabeth	
+True	0.1728	4	0.0108	21	67	19	Female	Elizabeth	
+False	-0.162	4	0.0108	21	67	19	Female	Elizabeth	
+False	0.1512	4	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1404	5	0.0108	21	67	19	Female	Elizabeth	
+True	0.1296	6	0.0108	21	67	19	Female	Elizabeth	
+True	-0.1188	7	0.0108	21	67	19	Female	Elizabeth	
+True	0.1296	1	0.006480001	21	67	19	Female	Elizabeth	
+True	-0.12312	2	0.006480001	21	67	19	Female	Elizabeth	
+True	0.11664	3	0.006480001	21	67	19	Female	Elizabeth	
+False	-0.11016	3	0.006480001	21	67	19	Female	Elizabeth	
+True	0.10368	4	0.006480001	21	67	19	Female	Elizabeth	
+False	-0.09720001	4	0.006480001	21	67	19	Female	Elizabeth	
+True	0.09072001	5	0.006480001	21	67	19	Female	Elizabeth	
+True	-0.08424001	6	0.006480001	21	67	19	Female	Elizabeth	
+False	0.07776001	6	0.006480001	21	67	19	Female	Elizabeth	
+True	-0.07128001	7	0.006480001	21	67	19	Female	Elizabeth	
+True	0.07776001	1	0.003888001	21	67	19	Female	Elizabeth	
+True	-0.07387201	2	0.003888001	21	67	19	Female	Elizabeth	
+True	0.069984	3	0.003888001	21	67	19	Female	Elizabeth	
+True	-0.066096	4	0.003888001	21	67	19	Female	Elizabeth	
+True	0.062208	5	0.003888001	21	67	19	Female	Elizabeth	
+True	-0.05832	6	0.003888001	21	67	19	Female	Elizabeth	
+True	0.054432	7	0.003888001	21	67	19	Female	Elizabeth	
+False	-0.050544	7	0.003888001	21	67	19	Female	Elizabeth	
+True	0.046656	8	0.003888001	21	67	19	Female	Elizabeth	
+True	-0.042768	9	0.003888001	21	67	19	Female	Elizabeth	
+True	0.04665601	1	0.002332801	21	67	19	Female	Elizabeth	
+False	-0.04432321	1	0.002332801	21	67	19	Female	Elizabeth	
+True	0.04199041	2	0.002332801	21	67	19	Female	Elizabeth	
+False	-0.03965761	2	0.002332801	21	67	19	Female	Elizabeth	
+True	0.03732481	3	0.002332801	21	67	19	Female	Elizabeth	
+False	-0.03499201	3	0.002332801	21	67	19	Female	Elizabeth	
+False	0.03265921	3	0.002332801	21	67	19	Female	Elizabeth	
+False	-0.03032641	3	0.002332801	21	67	19	Female	Elizabeth	
+False	0.02799361	3	0.002332801	21	67	19	Female	Elizabeth	
+False	-0.02566081	3	0.002332801	21	67	19	Female	Elizabeth	
+True	-1	1	0.05	22	74	23	Male	Mayela	Y
+True	0.95	2	0.05	22	74	23	Male	Mayela	Y
+True	-0.9	3	0.05	22	74	23	Male	Mayela	Y
+True	0.85	4	0.05	22	74	23	Male	Mayela	Y
+True	-0.8	5	0.05	22	74	23	Male	Mayela	Y
+True	0.7499999	6	0.05	22	74	23	Male	Mayela	Y
+True	-0.6999999	7	0.05	22	74	23	Male	Mayela	Y
+True	0.6499999	8	0.05	22	74	23	Male	Mayela	Y
+True	-0.5999999	9	0.05	22	74	23	Male	Mayela	Y
+True	0.5499999	10	0.05	22	74	23	Male	Mayela	Y
+True	-0.6	1	0.03	22	74	23	Male	Mayela	Y
+True	0.5700001	2	0.03	22	74	23	Male	Mayela	Y
+True	-0.5400001	3	0.03	22	74	23	Male	Mayela	Y
+True	0.5100001	4	0.03	22	74	23	Male	Mayela	Y
+True	-0.4800001	5	0.03	22	74	23	Male	Mayela	Y
+True	0.4500001	6	0.03	22	74	23	Male	Mayela	Y
+True	-0.4200001	7	0.03	22	74	23	Male	Mayela	Y
+True	0.3900001	8	0.03	22	74	23	Male	Mayela	Y
+True	-0.3600001	9	0.03	22	74	23	Male	Mayela	Y
+True	0.3300001	10	0.03	22	74	23	Male	Mayela	Y
+True	-0.36	1	0.018	22	74	23	Male	Mayela	Y
+True	0.342	2	0.018	22	74	23	Male	Mayela	Y
+True	-0.324	3	0.018	22	74	23	Male	Mayela	Y
+True	0.306	4	0.018	22	74	23	Male	Mayela	Y
+True	-0.288	5	0.018	22	74	23	Male	Mayela	Y
+True	0.27	6	0.018	22	74	23	Male	Mayela	Y
+True	-0.252	7	0.018	22	74	23	Male	Mayela	Y
+False	0.234	7	0.018	22	74	23	Male	Mayela	Y
+True	-0.216	8	0.018	22	74	23	Male	Mayela	Y
+True	0.198	9	0.018	22	74	23	Male	Mayela	Y
+True	-0.216	1	0.0108	22	74	23	Male	Mayela	Y
+True	0.2052	2	0.0108	22	74	23	Male	Mayela	Y
+True	-0.1944	3	0.0108	22	74	23	Male	Mayela	Y
+True	0.1836	4	0.0108	22	74	23	Male	Mayela	Y
+True	-0.1728	5	0.0108	22	74	23	Male	Mayela	Y
+True	0.162	6	0.0108	22	74	23	Male	Mayela	Y
+True	-0.1512	7	0.0108	22	74	23	Male	Mayela	Y
+False	0.1404	7	0.0108	22	74	23	Male	Mayela	Y
+True	-0.1296	8	0.0108	22	74	23	Male	Mayela	Y
+False	0.1188	8	0.0108	22	74	23	Male	Mayela	Y
+True	-0.1296	1	0.006480001	22	74	23	Male	Mayela	Y
+True	0.12312	2	0.006480001	22	74	23	Male	Mayela	Y
+True	-0.11664	3	0.006480001	22	74	23	Male	Mayela	Y
+True	0.11016	4	0.006480001	22	74	23	Male	Mayela	Y
+False	-0.10368	4	0.006480001	22	74	23	Male	Mayela	Y
+False	0.09720001	4	0.006480001	22	74	23	Male	Mayela	Y
+True	-0.09072001	5	0.006480001	22	74	23	Male	Mayela	Y
+False	0.08424001	5	0.006480001	22	74	23	Male	Mayela	Y
+True	-0.07776001	6	0.006480001	22	74	23	Male	Mayela	Y
+True	0.07128001	7	0.006480001	22	74	23	Male	Mayela	Y
+True	-0.07776001	1	0.003888001	22	74	23	Male	Mayela	Y
+True	0.07387201	2	0.003888001	22	74	23	Male	Mayela	Y
+True	-0.069984	3	0.003888001	22	74	23	Male	Mayela	Y
+True	0.066096	4	0.003888001	22	74	23	Male	Mayela	Y
+False	-0.062208	4	0.003888001	22	74	23	Male	Mayela	Y
+True	0.05832	5	0.003888001	22	74	23	Male	Mayela	Y
+True	-0.054432	6	0.003888001	22	74	23	Male	Mayela	Y
+True	0.050544	7	0.003888001	22	74	23	Male	Mayela	Y
+True	-0.046656	8	0.003888001	22	74	23	Male	Mayela	Y
+True	0.042768	9	0.003888001	22	74	23	Male	Mayela	Y
+False	-0.04665601	0	0.002332801	22	74	23	Male	Mayela	Y
+False	0.04432321	0	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.04199041	0	0.002332801	22	74	23	Male	Mayela	Y
+False	0.03965761	0	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.03732481	1	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03499201	2	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.03265921	3	0.002332801	22	74	23	Male	Mayela	Y
+False	0.03032641	3	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.02799361	3	0.002332801	22	74	23	Male	Mayela	Y
+True	0.02566081	4	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.04665601	0	0.002332801	22	74	23	Male	Mayela	Y
+True	0.04432321	1	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.04199041	2	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03965761	3	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.03732481	4	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03499201	5	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.03265921	5	0.002332801	22	74	23	Male	Mayela	Y
+False	0.03032641	5	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.02799361	5	0.002332801	22	74	23	Male	Mayela	Y
+False	0.02566081	5	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.04665601	1	0.002332801	22	74	23	Male	Mayela	Y
+True	0.04432321	2	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.04199041	2	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03965761	3	0.002332801	22	74	23	Male	Mayela	Y
+True	-0.03732481	4	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03499201	5	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.03265921	5	0.002332801	22	74	23	Male	Mayela	Y
+True	0.03032641	6	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.02799361	6	0.002332801	22	74	23	Male	Mayela	Y
+True	0.02566081	7	0.002332801	22	74	23	Male	Mayela	Y
+False	-0.02799361	0	0.00139968	22	74	23	Male	Mayela	Y
+False	0.02659393	0	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.02519424	0	0.00139968	22	74	23	Male	Mayela	Y
+False	0.02379456	0	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.02239488	0	0.00139968	22	74	23	Male	Mayela	Y
+True	0.0209952	1	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.01959552	1	0.00139968	22	74	23	Male	Mayela	Y
+True	0.01819584	2	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.01679616	2	0.00139968	22	74	23	Male	Mayela	Y
+False	0.01539648	2	0.00139968	22	74	23	Male	Mayela	Y
+True	-0.02799361	1	0.00139968	22	74	23	Male	Mayela	Y
+True	0.02659393	2	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.02519424	2	0.00139968	22	74	23	Male	Mayela	Y
+True	0.02379456	3	0.00139968	22	74	23	Male	Mayela	Y
+True	-0.02239488	4	0.00139968	22	74	23	Male	Mayela	Y
+True	0.0209952	5	0.00139968	22	74	23	Male	Mayela	Y
+True	-0.01959552	6	0.00139968	22	74	23	Male	Mayela	Y
+False	0.01819584	6	0.00139968	22	74	23	Male	Mayela	Y
+False	-0.01679616	6	0.00139968	22	74	23	Male	Mayela	Y
+False	0.01539648	6	0.00139968	22	74	23	Male	Mayela	Y
+True	1	1	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.95	2	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.9	2	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.85	3	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.8	4	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.7499999	5	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.6999999	6	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.6499999	7	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.5999999	8	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.5499999	9	0.05	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.6	1	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.5700001	2	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.5400001	3	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.5100001	4	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.4800001	5	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.4500001	6	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.4200001	7	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.3900001	8	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.3600001	8	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.3300001	9	0.03	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.36	0	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.342	1	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.324	2	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.306	3	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.288	4	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.27	5	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.252	6	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.234	7	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.216	8	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.198	9	0.018	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.216	1	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.2052	1	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.1944	1	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.1836	2	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1728	3	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.162	4	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1512	5	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.1404	5	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.1296	5	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.1188	5	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.216	1	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.2052	2	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1944	3	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.1836	3	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1728	4	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.162	4	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1512	5	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.1404	6	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1296	7	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.1188	8	0.0108	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.1296	0	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.12312	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.11664	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.11016	2	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.10368	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.09720001	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.09072001	4	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.08424001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.07776001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.07128001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.1296	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.12312	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.11664	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.11016	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.10368	2	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.09720001	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.09072001	4	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.08424001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.07776001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.07128001	6	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.1296	0	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.12312	0	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.11664	1	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.11016	2	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.10368	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.09720001	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	0.09072001	3	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	-0.08424001	4	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	0.07776001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+False	-0.07128001	5	0.006480001	23	5 ft 5 in	19	Female	Aaron	glasses
+True	1	1	0.05	24	72	21	Male	Mayela	Y
+True	-0.95	2	0.05	24	72	21	Male	Mayela	Y
+True	0.9	3	0.05	24	72	21	Male	Mayela	Y
+True	-0.85	4	0.05	24	72	21	Male	Mayela	Y
+True	0.8	5	0.05	24	72	21	Male	Mayela	Y
+True	-0.7499999	6	0.05	24	72	21	Male	Mayela	Y
+True	0.6999999	7	0.05	24	72	21	Male	Mayela	Y
+True	-0.6499999	8	0.05	24	72	21	Male	Mayela	Y
+True	0.5999999	9	0.05	24	72	21	Male	Mayela	Y
+True	-0.5499999	10	0.05	24	72	21	Male	Mayela	Y
+True	0.6	1	0.03	24	72	21	Male	Mayela	Y
+True	-0.5700001	2	0.03	24	72	21	Male	Mayela	Y
+True	0.5400001	3	0.03	24	72	21	Male	Mayela	Y
+True	-0.5100001	4	0.03	24	72	21	Male	Mayela	Y
+True	0.4800001	5	0.03	24	72	21	Male	Mayela	Y
+True	-0.4500001	6	0.03	24	72	21	Male	Mayela	Y
+True	0.4200001	7	0.03	24	72	21	Male	Mayela	Y
+True	-0.3900001	8	0.03	24	72	21	Male	Mayela	Y
+False	0.3600001	8	0.03	24	72	21	Male	Mayela	Y
+True	-0.3300001	9	0.03	24	72	21	Male	Mayela	Y
+True	0.36	1	0.018	24	72	21	Male	Mayela	Y
+True	-0.342	2	0.018	24	72	21	Male	Mayela	Y
+True	0.324	3	0.018	24	72	21	Male	Mayela	Y
+True	-0.306	4	0.018	24	72	21	Male	Mayela	Y
+True	0.288	5	0.018	24	72	21	Male	Mayela	Y
+False	-0.27	5	0.018	24	72	21	Male	Mayela	Y
+True	0.252	6	0.018	24	72	21	Male	Mayela	Y
+True	-0.234	7	0.018	24	72	21	Male	Mayela	Y
+True	0.216	8	0.018	24	72	21	Male	Mayela	Y
+True	-0.198	9	0.018	24	72	21	Male	Mayela	Y
+True	0.216	1	0.0108	24	72	21	Male	Mayela	Y
+True	-0.2052	2	0.0108	24	72	21	Male	Mayela	Y
+True	0.1944	3	0.0108	24	72	21	Male	Mayela	Y
+True	-0.1836	4	0.0108	24	72	21	Male	Mayela	Y
+True	0.1728	5	0.0108	24	72	21	Male	Mayela	Y
+True	-0.162	6	0.0108	24	72	21	Male	Mayela	Y
+True	0.1512	7	0.0108	24	72	21	Male	Mayela	Y
+True	-0.1404	8	0.0108	24	72	21	Male	Mayela	Y
+True	0.1296	9	0.0108	24	72	21	Male	Mayela	Y
+True	-0.1188	10	0.0108	24	72	21	Male	Mayela	Y
+True	0.1296	1	0.006480001	24	72	21	Male	Mayela	Y
+True	-0.12312	2	0.006480001	24	72	21	Male	Mayela	Y
+True	0.11664	3	0.006480001	24	72	21	Male	Mayela	Y
+True	-0.11016	4	0.006480001	24	72	21	Male	Mayela	Y
+True	0.10368	5	0.006480001	24	72	21	Male	Mayela	Y
+True	-0.09720001	6	0.006480001	24	72	21	Male	Mayela	Y
+True	0.09072001	7	0.006480001	24	72	21	Male	Mayela	Y
+True	-0.08424001	8	0.006480001	24	72	21	Male	Mayela	Y
+True	0.07776001	9	0.006480001	24	72	21	Male	Mayela	Y
+True	-0.07128001	10	0.006480001	24	72	21	Male	Mayela	Y
+True	0.07776001	1	0.003888001	24	72	21	Male	Mayela	Y
+True	-0.07387201	2	0.003888001	24	72	21	Male	Mayela	Y
+True	0.069984	3	0.003888001	24	72	21	Male	Mayela	Y
+True	-0.066096	4	0.003888001	24	72	21	Male	Mayela	Y
+True	0.062208	5	0.003888001	24	72	21	Male	Mayela	Y
+True	-0.05832	6	0.003888001	24	72	21	Male	Mayela	Y
+False	0.054432	6	0.003888001	24	72	21	Male	Mayela	Y
+False	-0.050544	6	0.003888001	24	72	21	Male	Mayela	Y
+True	0.046656	7	0.003888001	24	72	21	Male	Mayela	Y
+True	-0.042768	8	0.003888001	24	72	21	Male	Mayela	Y
+False	0.04665601	0	0.002332801	24	72	21	Male	Mayela	Y
+False	-0.04432321	0	0.002332801	24	72	21	Male	Mayela	Y
+False	0.04199041	0	0.002332801	24	72	21	Male	Mayela	Y
+False	-0.03965761	0	0.002332801	24	72	21	Male	Mayela	Y
+False	0.03732481	0	0.002332801	24	72	21	Male	Mayela	Y
+False	-0.03499201	0	0.002332801	24	72	21	Male	Mayela	Y
+False	0.03265921	0	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03032641	1	0.002332801	24	72	21	Male	Mayela	Y
+False	0.02799361	1	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.02566081	2	0.002332801	24	72	21	Male	Mayela	Y
+False	0.04665601	0	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.04432321	1	0.002332801	24	72	21	Male	Mayela	Y
+False	0.04199041	1	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03965761	2	0.002332801	24	72	21	Male	Mayela	Y
+True	0.03732481	3	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03499201	4	0.002332801	24	72	21	Male	Mayela	Y
+False	0.03265921	4	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03032641	5	0.002332801	24	72	21	Male	Mayela	Y
+False	0.02799361	5	0.002332801	24	72	21	Male	Mayela	Y
+False	-0.02566081	5	0.002332801	24	72	21	Male	Mayela	Y
+False	0.04665601	0	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.04432321	1	0.002332801	24	72	21	Male	Mayela	Y
+True	0.04199041	2	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03965761	3	0.002332801	24	72	21	Male	Mayela	Y
+False	0.03732481	3	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03499201	4	0.002332801	24	72	21	Male	Mayela	Y
+True	0.03265921	5	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.03032641	6	0.002332801	24	72	21	Male	Mayela	Y
+False	0.02799361	6	0.002332801	24	72	21	Male	Mayela	Y
+True	-0.02566081	7	0.002332801	24	72	21	Male	Mayela	Y
+True	0.02799361	1	0.00139968	24	72	21	Male	Mayela	Y
+True	-0.02659393	2	0.00139968	24	72	21	Male	Mayela	Y
+True	0.02519424	3	0.00139968	24	72	21	Male	Mayela	Y
+False	-0.02379456	3	0.00139968	24	72	21	Male	Mayela	Y
+False	0.02239488	3	0.00139968	24	72	21	Male	Mayela	Y
+True	-0.0209952	4	0.00139968	24	72	21	Male	Mayela	Y
+False	0.01959552	4	0.00139968	24	72	21	Male	Mayela	Y
+True	-0.01819584	5	0.00139968	24	72	21	Male	Mayela	Y
+True	0.01679616	6	0.00139968	24	72	21	Male	Mayela	Y
+True	-0.01539648	7	0.00139968	24	72	21	Male	Mayela	Y
+True	0.01679616	1	0.0008398083	24	72	21	Male	Mayela	Y
+False	-0.01595636	1	0.0008398083	24	72	21	Male	Mayela	Y
+True	0.01511655	2	0.0008398083	24	72	21	Male	Mayela	Y
+True	-0.01427674	3	0.0008398083	24	72	21	Male	Mayela	Y
+True	0.01343693	4	0.0008398083	24	72	21	Male	Mayela	Y
+True	-0.01259712	5	0.0008398083	24	72	21	Male	Mayela	Y
+False	0.01175732	5	0.0008398083	24	72	21	Male	Mayela	Y
+True	-0.01091751	6	0.0008398083	24	72	21	Male	Mayela	Y
+False	0.0100777	6	0.0008398083	24	72	21	Male	Mayela	Y
+True	-0.009237891	7	0.0008398083	24	72	21	Male	Mayela	Y
+True	0.0100777	1	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.009573814	1	0.000503885	24	72	21	Male	Mayela	Y
+True	0.00906993	2	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.008566045	2	0.000503885	24	72	21	Male	Mayela	Y
+True	0.008062161	3	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.007558275	3	0.000503885	24	72	21	Male	Mayela	Y
+True	0.00705439	4	0.000503885	24	72	21	Male	Mayela	Y
+True	-0.006550505	5	0.000503885	24	72	21	Male	Mayela	Y
+True	0.00604662	6	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.005542735	6	0.000503885	24	72	21	Male	Mayela	Y
+False	0.0100777	0	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.009573814	0	0.000503885	24	72	21	Male	Mayela	Y
+True	0.00906993	1	0.000503885	24	72	21	Male	Mayela	Y
+True	-0.008566045	2	0.000503885	24	72	21	Male	Mayela	Y
+True	0.008062161	3	0.000503885	24	72	21	Male	Mayela	Y
+True	-0.007558275	4	0.000503885	24	72	21	Male	Mayela	Y
+False	0.00705439	4	0.000503885	24	72	21	Male	Mayela	Y
+True	-0.006550505	5	0.000503885	24	72	21	Male	Mayela	Y
+False	0.00604662	5	0.000503885	24	72	21	Male	Mayela	Y
+False	-0.005542735	5	0.000503885	24	72	21	Male	Mayela	Y
+True	-1	1	0.05	25	67	19	Female	amr	
+True	0.95	2	0.05	25	67	19	Female	amr	
+True	-0.9	3	0.05	25	67	19	Female	amr	
+True	0.85	4	0.05	25	67	19	Female	amr	
+True	-0.8	5	0.05	25	67	19	Female	amr	
+True	0.7499999	6	0.05	25	67	19	Female	amr	
+True	-0.6999999	7	0.05	25	67	19	Female	amr	
+True	0.6499999	8	0.05	25	67	19	Female	amr	
+True	-0.5999999	9	0.05	25	67	19	Female	amr	
+True	0.5499999	10	0.05	25	67	19	Female	amr	
+True	-0.6	1	0.03	25	67	19	Female	amr	
+True	0.5700001	2	0.03	25	67	19	Female	amr	
+True	-0.5400001	3	0.03	25	67	19	Female	amr	
+True	0.5100001	4	0.03	25	67	19	Female	amr	
+True	-0.4800001	5	0.03	25	67	19	Female	amr	
+True	0.4500001	6	0.03	25	67	19	Female	amr	
+True	-0.4200001	7	0.03	25	67	19	Female	amr	
+True	0.3900001	8	0.03	25	67	19	Female	amr	
+True	-0.3600001	9	0.03	25	67	19	Female	amr	
+True	0.3300001	10	0.03	25	67	19	Female	amr	
+True	-0.36	1	0.018	25	67	19	Female	amr	
+True	0.342	2	0.018	25	67	19	Female	amr	
+True	-0.324	3	0.018	25	67	19	Female	amr	
+True	0.306	4	0.018	25	67	19	Female	amr	
+True	-0.288	5	0.018	25	67	19	Female	amr	
+True	0.27	6	0.018	25	67	19	Female	amr	
+True	-0.252	7	0.018	25	67	19	Female	amr	
+True	0.234	8	0.018	25	67	19	Female	amr	
+True	-0.216	9	0.018	25	67	19	Female	amr	
+True	0.198	10	0.018	25	67	19	Female	amr	
+True	-0.216	1	0.0108	25	67	19	Female	amr	
+True	0.2052	2	0.0108	25	67	19	Female	amr	
+True	-0.1944	3	0.0108	25	67	19	Female	amr	
+True	0.1836	4	0.0108	25	67	19	Female	amr	
+True	-0.1728	5	0.0108	25	67	19	Female	amr	
+True	0.162	6	0.0108	25	67	19	Female	amr	
+True	-0.1512	7	0.0108	25	67	19	Female	amr	
+False	0.1404	7	0.0108	25	67	19	Female	amr	
+True	-0.1296	8	0.0108	25	67	19	Female	amr	
+True	0.1188	9	0.0108	25	67	19	Female	amr	
+True	-0.1296	1	0.006480001	25	67	19	Female	amr	
+False	0.12312	1	0.006480001	25	67	19	Female	amr	
+True	-0.11664	2	0.006480001	25	67	19	Female	amr	
+True	0.11016	3	0.006480001	25	67	19	Female	amr	
+True	-0.10368	4	0.006480001	25	67	19	Female	amr	
+True	0.09720001	5	0.006480001	25	67	19	Female	amr	
+True	-0.09072001	6	0.006480001	25	67	19	Female	amr	
+True	0.08424001	7	0.006480001	25	67	19	Female	amr	
+True	-0.07776001	8	0.006480001	25	67	19	Female	amr	
+False	0.07128001	8	0.006480001	25	67	19	Female	amr	
+True	-0.07776001	1	0.003888001	25	67	19	Female	amr	
+True	0.07387201	2	0.003888001	25	67	19	Female	amr	
+True	-0.069984	3	0.003888001	25	67	19	Female	amr	
+True	0.066096	4	0.003888001	25	67	19	Female	amr	
+True	-0.062208	5	0.003888001	25	67	19	Female	amr	
+False	0.05832	5	0.003888001	25	67	19	Female	amr	
+True	-0.054432	6	0.003888001	25	67	19	Female	amr	
+False	0.050544	6	0.003888001	25	67	19	Female	amr	
+True	-0.046656	7	0.003888001	25	67	19	Female	amr	
+True	0.042768	8	0.003888001	25	67	19	Female	amr	
+True	-0.04665601	1	0.002332801	25	67	19	Female	amr	
+True	0.04432321	2	0.002332801	25	67	19	Female	amr	
+True	-0.04199041	3	0.002332801	25	67	19	Female	amr	
+False	0.03965761	3	0.002332801	25	67	19	Female	amr	
+True	-0.03732481	4	0.002332801	25	67	19	Female	amr	
+True	0.03499201	5	0.002332801	25	67	19	Female	amr	
+False	-0.03265921	5	0.002332801	25	67	19	Female	amr	
+False	0.03032641	5	0.002332801	25	67	19	Female	amr	
+False	-0.02799361	5	0.002332801	25	67	19	Female	amr	
+True	0.02566081	6	0.002332801	25	67	19	Female	amr	
+False	-0.04665601	0	0.002332801	25	67	19	Female	amr	
+False	0.04432321	0	0.002332801	25	67	19	Female	amr	
+True	-0.04199041	1	0.002332801	25	67	19	Female	amr	
+False	0.03965761	1	0.002332801	25	67	19	Female	amr	
+True	-0.03732481	2	0.002332801	25	67	19	Female	amr	
+False	0.03499201	2	0.002332801	25	67	19	Female	amr	
+True	-0.03265921	3	0.002332801	25	67	19	Female	amr	
+False	0.03032641	3	0.002332801	25	67	19	Female	amr	
+True	-0.02799361	4	0.002332801	25	67	19	Female	amr	
+False	0.02566081	4	0.002332801	25	67	19	Female	amr	
+True	-0.04665601	1	0.002332801	25	67	19	Female	amr	
+True	0.04432321	2	0.002332801	25	67	19	Female	amr	
+False	-0.04199041	2	0.002332801	25	67	19	Female	amr	
+False	0.03965761	2	0.002332801	25	67	19	Female	amr	
+False	-0.03732481	2	0.002332801	25	67	19	Female	amr	
+True	0.03499201	3	0.002332801	25	67	19	Female	amr	
+True	-0.03265921	4	0.002332801	25	67	19	Female	amr	
+False	0.03032641	4	0.002332801	25	67	19	Female	amr	
+False	-0.02799361	4	0.002332801	25	67	19	Female	amr	
+True	0.02566081	5	0.002332801	25	67	19	Female	amr	
+False	-0.04665601	0	0.002332801	25	67	19	Female	amr	
+False	0.04432321	0	0.002332801	25	67	19	Female	amr	
+True	-0.04199041	1	0.002332801	25	67	19	Female	amr	
+False	0.03965761	1	0.002332801	25	67	19	Female	amr	
+True	-0.03732481	2	0.002332801	25	67	19	Female	amr	
+False	0.03499201	2	0.002332801	25	67	19	Female	amr	
+True	-0.03265921	3	0.002332801	25	67	19	Female	amr	
+False	0.03032641	3	0.002332801	25	67	19	Female	amr	
+True	-0.02799361	4	0.002332801	25	67	19	Female	amr	
+False	0.02566081	4	0.002332801	25	67	19	Female	amr	
+True	-1	1	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	0.95	2	0.05	26	5 ft 11 in	20	Male	Aaron	
+False	-0.9	2	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	0.85	3	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	-0.8	4	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	0.7499999	5	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	-0.6999999	6	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	0.6499999	7	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	-0.5999999	8	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	0.5499999	9	0.05	26	5 ft 11 in	20	Male	Aaron	
+True	-0.6	1	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	0.5700001	2	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	-0.5400001	3	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	0.5100001	4	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	-0.4800001	5	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	0.4500001	6	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	-0.4200001	7	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	0.3900001	8	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	-0.3600001	9	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	0.3300001	10	0.03	26	5 ft 11 in	20	Male	Aaron	
+True	-0.36	1	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	0.342	2	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	-0.324	3	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	0.306	4	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	-0.288	5	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	0.27	6	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	-0.252	7	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	0.234	8	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	-0.216	9	0.018	26	5 ft 11 in	20	Male	Aaron	
+False	0.198	9	0.018	26	5 ft 11 in	20	Male	Aaron	
+True	-0.216	1	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	0.2052	2	0.0108	26	5 ft 11 in	20	Male	Aaron	
+False	-0.1944	2	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	0.1836	3	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	-0.1728	4	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	0.162	5	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	-0.1512	6	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	0.1404	7	0.0108	26	5 ft 11 in	20	Male	Aaron	
+True	-0.1296	8	0.0108	26	5 ft 11 in	20	Male	Aaron	
+False	0.1188	8	0.0108	26	5 ft 11 in	20	Male	Aaron	
+False	-0.1296	0	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	0.12312	1	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.11664	2	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	0.11016	3	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.10368	4	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	0.09720001	5	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.09072001	5	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	0.08424001	6	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.07776001	7	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	0.07128001	8	0.006480001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.07776001	1	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.07387201	2	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.069984	2	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.066096	3	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.062208	4	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.05832	5	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.054432	5	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.050544	6	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.046656	6	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	0.042768	6	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.07776001	1	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.07387201	2	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.069984	2	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.066096	3	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.062208	4	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.05832	5	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.054432	6	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.050544	7	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	-0.046656	8	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+True	0.042768	9	0.003888001	26	5 ft 11 in	20	Male	Aaron	
+False	-0.04665601	0	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.04432321	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.04199041	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03965761	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.03732481	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03499201	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.03265921	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03032641	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.02799361	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.02566081	2	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	-0.04665601	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.04432321	2	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.04199041	2	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.03965761	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	-0.03732481	4	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.03499201	5	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.03265921	5	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03032641	5	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.02799361	5	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.02566081	6	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.04665601	0	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.04432321	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.04199041	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03965761	1	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	-0.03732481	2	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	0.03499201	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.03265921	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.03032641	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	-0.02799361	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+False	0.02566081	3	0.002332801	26	5 ft 11 in	20	Male	Aaron	
+True	-1	1	0.05	27	5ft 7in	19	Male	Aaron	
+True	0.95	2	0.05	27	5ft 7in	19	Male	Aaron	
+True	-0.9	3	0.05	27	5ft 7in	19	Male	Aaron	
+True	0.85	4	0.05	27	5ft 7in	19	Male	Aaron	
+True	-0.8	5	0.05	27	5ft 7in	19	Male	Aaron	
+True	0.7499999	6	0.05	27	5ft 7in	19	Male	Aaron	
+True	-0.6999999	7	0.05	27	5ft 7in	19	Male	Aaron	
+True	0.6499999	8	0.05	27	5ft 7in	19	Male	Aaron	
+True	-0.5999999	9	0.05	27	5ft 7in	19	Male	Aaron	
+True	0.5499999	10	0.05	27	5ft 7in	19	Male	Aaron	
+True	-0.6	1	0.03	27	5ft 7in	19	Male	Aaron	
+True	0.5700001	2	0.03	27	5ft 7in	19	Male	Aaron	
+True	-0.5400001	3	0.03	27	5ft 7in	19	Male	Aaron	
+True	0.5100001	4	0.03	27	5ft 7in	19	Male	Aaron	
+True	-0.4800001	5	0.03	27	5ft 7in	19	Male	Aaron	
+True	0.4500001	6	0.03	27	5ft 7in	19	Male	Aaron	
+True	-0.4200001	7	0.03	27	5ft 7in	19	Male	Aaron	
+True	0.3900001	8	0.03	27	5ft 7in	19	Male	Aaron	
+True	-0.3600001	9	0.03	27	5ft 7in	19	Male	Aaron	
+True	0.3300001	10	0.03	27	5ft 7in	19	Male	Aaron	
+True	-0.36	1	0.018	27	5ft 7in	19	Male	Aaron	
+True	0.342	2	0.018	27	5ft 7in	19	Male	Aaron	
+True	-0.324	3	0.018	27	5ft 7in	19	Male	Aaron	
+True	0.306	4	0.018	27	5ft 7in	19	Male	Aaron	
+True	-0.288	5	0.018	27	5ft 7in	19	Male	Aaron	
+True	0.27	6	0.018	27	5ft 7in	19	Male	Aaron	
+True	-0.252	7	0.018	27	5ft 7in	19	Male	Aaron	
+True	0.234	8	0.018	27	5ft 7in	19	Male	Aaron	
+True	-0.216	9	0.018	27	5ft 7in	19	Male	Aaron	
+True	0.198	10	0.018	27	5ft 7in	19	Male	Aaron	
+True	-0.216	1	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.2052	2	0.0108	27	5ft 7in	19	Male	Aaron	
+False	-0.1944	2	0.0108	27	5ft 7in	19	Male	Aaron	
+False	0.1836	2	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1728	3	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.162	4	0.0108	27	5ft 7in	19	Male	Aaron	
+False	-0.1512	4	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.1404	5	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1296	6	0.0108	27	5ft 7in	19	Male	Aaron	
+False	0.1188	6	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.216	1	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.2052	2	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1944	3	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.1836	4	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1728	5	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.162	6	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1512	7	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.1404	8	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1296	9	0.0108	27	5ft 7in	19	Male	Aaron	
+True	0.1188	10	0.0108	27	5ft 7in	19	Male	Aaron	
+True	-0.1296	1	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	0.12312	1	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	-0.11664	2	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.11016	3	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	-0.10368	4	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.09720001	5	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	-0.09072001	5	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	0.08424001	5	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	-0.07776001	5	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.07128001	6	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	-0.1296	1	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.12312	2	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	-0.11664	3	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.11016	4	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	-0.10368	5	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.09720001	6	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	-0.09072001	6	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.08424001	7	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	-0.07776001	7	0.006480001	27	5ft 7in	19	Male	Aaron	
+True	0.07128001	8	0.006480001	27	5ft 7in	19	Male	Aaron	
+False	-0.07776001	0	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	0.07387201	1	0.003888001	27	5ft 7in	19	Male	Aaron	
+False	-0.069984	1	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	0.066096	2	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	-0.062208	3	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	0.05832	4	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	-0.054432	5	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	0.050544	6	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	-0.046656	7	0.003888001	27	5ft 7in	19	Male	Aaron	
+True	0.042768	8	0.003888001	27	5ft 7in	19	Male	Aaron	
+False	-0.04665601	0	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	0.04432321	1	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	-0.04199041	1	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	0.03965761	2	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-0.03732481	3	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.03499201	3	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	-0.03265921	3	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	0.03032641	4	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-0.02799361	5	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.02566081	5	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	-0.04665601	0	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	0.04432321	1	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-0.04199041	2	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.03965761	2	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	-0.03732481	2	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.03499201	2	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-0.03265921	3	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.03032641	3	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-0.02799361	4	0.002332801	27	5ft 7in	19	Male	Aaron	
+False	0.02566081	4	0.002332801	27	5ft 7in	19	Male	Aaron	
+True	-1	1	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	0.95	2	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	-0.9	3	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	0.85	4	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	-0.8	5	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	0.7499999	6	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	-0.6999999	7	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	0.6499999	8	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	-0.5999999	9	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	0.5499999	10	0.05	28	5 ft 5 in	19	Female	Aaron	
+True	-0.6	1	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	0.5700001	2	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	-0.5400001	3	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	0.5100001	4	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	-0.4800001	5	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	0.4500001	6	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	-0.4200001	7	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	0.3900001	8	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	-0.3600001	9	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	0.3300001	10	0.03	28	5 ft 5 in	19	Female	Aaron	
+True	-0.36	1	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	0.342	2	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	-0.324	3	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	0.306	4	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	-0.288	5	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	0.27	6	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	-0.252	7	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	0.234	8	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	-0.216	9	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	0.198	10	0.018	28	5 ft 5 in	19	Female	Aaron	
+True	-0.216	1	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	0.2052	2	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1944	3	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	0.1836	4	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1728	5	0.0108	28	5 ft 5 in	19	Female	Aaron	
+False	0.162	5	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1512	6	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	0.1404	7	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1296	8	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	0.1188	9	0.0108	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1296	1	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.12312	2	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.11664	3	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.11016	4	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.10368	5	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.09720001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.09072001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	0.08424001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.07776001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	0.07128001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.1296	1	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.12312	2	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.11664	3	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	0.11016	3	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.10368	4	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.09720001	5	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.09072001	6	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.08424001	7	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.07776001	7	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	0.07128001	8	0.006480001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.07776001	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.07387201	2	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.069984	3	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.066096	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.062208	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.05832	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.054432	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.050544	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.046656	6	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.042768	6	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.07776001	0	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.07387201	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.069984	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.066096	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.062208	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.05832	2	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.054432	3	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.050544	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.046656	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.042768	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.07776001	1	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.07387201	2	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.069984	2	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.066096	3	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.062208	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.05832	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	-0.054432	4	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	0.050544	5	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-0.046656	6	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+False	0.042768	6	0.003888001	28	5 ft 5 in	19	Female	Aaron	
+True	-1	1	0.05	29	62	20	Female	Eva	
+False	0.95	1	0.05	29	62	20	Female	Eva	
+True	-0.9	2	0.05	29	62	20	Female	Eva	
+False	0.85	2	0.05	29	62	20	Female	Eva	
+True	-0.8	3	0.05	29	62	20	Female	Eva	
+True	0.7499999	4	0.05	29	62	20	Female	Eva	
+True	-0.6999999	5	0.05	29	62	20	Female	Eva	
+False	0.6499999	5	0.05	29	62	20	Female	Eva	
+True	-0.5999999	6	0.05	29	62	20	Female	Eva	
+True	0.5499999	7	0.05	29	62	20	Female	Eva	
+True	-0.6	1	0.03	29	62	20	Female	Eva	
+True	0.5700001	2	0.03	29	62	20	Female	Eva	
+True	-0.5400001	3	0.03	29	62	20	Female	Eva	
+False	0.5100001	3	0.03	29	62	20	Female	Eva	
+True	-0.4800001	4	0.03	29	62	20	Female	Eva	
+True	0.4500001	5	0.03	29	62	20	Female	Eva	
+True	-0.4200001	6	0.03	29	62	20	Female	Eva	
+True	0.3900001	7	0.03	29	62	20	Female	Eva	
+True	-0.3600001	8	0.03	29	62	20	Female	Eva	
+True	0.3300001	9	0.03	29	62	20	Female	Eva	
+True	-0.36	1	0.018	29	62	20	Female	Eva	
+False	0.342	1	0.018	29	62	20	Female	Eva	
+True	-0.324	2	0.018	29	62	20	Female	Eva	
+False	0.306	2	0.018	29	62	20	Female	Eva	
+False	-0.288	2	0.018	29	62	20	Female	Eva	
+True	0.27	3	0.018	29	62	20	Female	Eva	
+True	-0.252	4	0.018	29	62	20	Female	Eva	
+True	0.234	5	0.018	29	62	20	Female	Eva	
+True	-0.216	6	0.018	29	62	20	Female	Eva	
+False	0.198	6	0.018	29	62	20	Female	Eva	
+True	-0.36	1	0.018	29	62	20	Female	Eva	
+False	0.342	1	0.018	29	62	20	Female	Eva	
+True	-0.324	2	0.018	29	62	20	Female	Eva	
+False	0.306	2	0.018	29	62	20	Female	Eva	
+True	-0.288	3	0.018	29	62	20	Female	Eva	
+False	0.27	3	0.018	29	62	20	Female	Eva	
+True	-0.252	4	0.018	29	62	20	Female	Eva	
+False	0.234	4	0.018	29	62	20	Female	Eva	
+True	-0.216	5	0.018	29	62	20	Female	Eva	
+False	0.198	5	0.018	29	62	20	Female	Eva	
+True	-0.36	1	0.018	29	62	20	Female	Eva	
+True	0.342	2	0.018	29	62	20	Female	Eva	
+True	-0.324	3	0.018	29	62	20	Female	Eva	
+False	0.306	3	0.018	29	62	20	Female	Eva	
+True	-0.288	4	0.018	29	62	20	Female	Eva	
+False	0.27	4	0.018	29	62	20	Female	Eva	
+True	-0.252	5	0.018	29	62	20	Female	Eva	
+True	0.234	6	0.018	29	62	20	Female	Eva	
+True	-0.216	7	0.018	29	62	20	Female	Eva	
+False	0.198	7	0.018	29	62	20	Female	Eva	
+True	-0.216	1	0.0108	29	62	20	Female	Eva	
+True	0.2052	2	0.0108	29	62	20	Female	Eva	
+True	-0.1944	3	0.0108	29	62	20	Female	Eva	
+False	0.1836	3	0.0108	29	62	20	Female	Eva	
+True	-0.1728	4	0.0108	29	62	20	Female	Eva	
+True	0.162	5	0.0108	29	62	20	Female	Eva	
+True	-0.1512	6	0.0108	29	62	20	Female	Eva	
+True	0.1404	7	0.0108	29	62	20	Female	Eva	
+True	-0.1296	8	0.0108	29	62	20	Female	Eva	
+False	0.1188	8	0.0108	29	62	20	Female	Eva	
+True	-0.1296	1	0.006480001	29	62	20	Female	Eva	
+False	0.12312	1	0.006480001	29	62	20	Female	Eva	
+True	-0.11664	2	0.006480001	29	62	20	Female	Eva	
+False	0.11016	2	0.006480001	29	62	20	Female	Eva	
+True	-0.10368	3	0.006480001	29	62	20	Female	Eva	
+True	0.09720001	4	0.006480001	29	62	20	Female	Eva	
+True	-0.09072001	5	0.006480001	29	62	20	Female	Eva	
+True	0.08424001	6	0.006480001	29	62	20	Female	Eva	
+True	-0.07776001	7	0.006480001	29	62	20	Female	Eva	
+False	0.07128001	7	0.006480001	29	62	20	Female	Eva	
+True	-0.07776001	1	0.003888001	29	62	20	Female	Eva	
+False	0.07387201	1	0.003888001	29	62	20	Female	Eva	
+True	-0.069984	2	0.003888001	29	62	20	Female	Eva	
+True	0.066096	3	0.003888001	29	62	20	Female	Eva	
+True	-0.062208	4	0.003888001	29	62	20	Female	Eva	
+True	0.05832	5	0.003888001	29	62	20	Female	Eva	
+False	-0.054432	5	0.003888001	29	62	20	Female	Eva	
+True	0.050544	6	0.003888001	29	62	20	Female	Eva	
+True	-0.046656	7	0.003888001	29	62	20	Female	Eva	
+False	0.042768	7	0.003888001	29	62	20	Female	Eva	
+True	-0.04665601	1	0.002332801	29	62	20	Female	Eva	
+False	0.04432321	1	0.002332801	29	62	20	Female	Eva	
+False	-0.04199041	1	0.002332801	29	62	20	Female	Eva	
+False	0.03965761	1	0.002332801	29	62	20	Female	Eva	
+False	-0.03732481	1	0.002332801	29	62	20	Female	Eva	
+True	0.03499201	2	0.002332801	29	62	20	Female	Eva	
+False	-0.03265921	2	0.002332801	29	62	20	Female	Eva	
+False	0.03032641	2	0.002332801	29	62	20	Female	Eva	
+True	-0.02799361	3	0.002332801	29	62	20	Female	Eva	
+True	0.02566081	4	0.002332801	29	62	20	Female	Eva	
+True	-0.04665601	1	0.002332801	29	62	20	Female	Eva	
+False	0.04432321	1	0.002332801	29	62	20	Female	Eva	
+True	-0.04199041	2	0.002332801	29	62	20	Female	Eva	
+True	0.03965761	3	0.002332801	29	62	20	Female	Eva	
+False	-0.03732481	3	0.002332801	29	62	20	Female	Eva	
+True	0.03499201	4	0.002332801	29	62	20	Female	Eva	
+True	-0.03265921	5	0.002332801	29	62	20	Female	Eva	
+True	0.03032641	6	0.002332801	29	62	20	Female	Eva	
+True	-0.02799361	7	0.002332801	29	62	20	Female	Eva	
+False	0.02566081	7	0.002332801	29	62	20	Female	Eva	
+True	-0.02799361	1	0.00139968	29	62	20	Female	Eva	
+False	0.02659393	1	0.00139968	29	62	20	Female	Eva	
+False	-0.02519424	1	0.00139968	29	62	20	Female	Eva	
+False	0.02379456	1	0.00139968	29	62	20	Female	Eva	
+True	-0.02239488	2	0.00139968	29	62	20	Female	Eva	
+True	0.0209952	3	0.00139968	29	62	20	Female	Eva	
+False	-0.01959552	3	0.00139968	29	62	20	Female	Eva	
+False	0.01819584	3	0.00139968	29	62	20	Female	Eva	
+False	-0.01679616	3	0.00139968	29	62	20	Female	Eva	
+True	0.01539648	4	0.00139968	29	62	20	Female	Eva	
+True	-1	1	0.05	30	70	19	Male	Eva	
+True	0.95	2	0.05	30	70	19	Male	Eva	
+True	-0.9	3	0.05	30	70	19	Male	Eva	
+True	0.85	4	0.05	30	70	19	Male	Eva	
+True	-0.8	5	0.05	30	70	19	Male	Eva	
+True	0.7499999	6	0.05	30	70	19	Male	Eva	
+True	-0.6999999	7	0.05	30	70	19	Male	Eva	
+True	0.6499999	8	0.05	30	70	19	Male	Eva	
+True	-0.5999999	9	0.05	30	70	19	Male	Eva	
+True	0.5499999	10	0.05	30	70	19	Male	Eva	
+True	-0.6	1	0.03	30	70	19	Male	Eva	
+True	0.5700001	2	0.03	30	70	19	Male	Eva	
+True	-0.5400001	3	0.03	30	70	19	Male	Eva	
+True	0.5100001	4	0.03	30	70	19	Male	Eva	
+True	-0.4800001	5	0.03	30	70	19	Male	Eva	
+True	0.4500001	6	0.03	30	70	19	Male	Eva	
+True	-0.4200001	7	0.03	30	70	19	Male	Eva	
+True	0.3900001	8	0.03	30	70	19	Male	Eva	
+True	-0.3600001	9	0.03	30	70	19	Male	Eva	
+True	0.3300001	10	0.03	30	70	19	Male	Eva	
+True	-0.36	1	0.018	30	70	19	Male	Eva	
+True	0.342	2	0.018	30	70	19	Male	Eva	
+True	-0.324	3	0.018	30	70	19	Male	Eva	
+True	0.306	4	0.018	30	70	19	Male	Eva	
+True	-0.288	5	0.018	30	70	19	Male	Eva	
+True	0.27	6	0.018	30	70	19	Male	Eva	
+True	-0.252	7	0.018	30	70	19	Male	Eva	
+True	0.234	8	0.018	30	70	19	Male	Eva	
+True	-0.216	9	0.018	30	70	19	Male	Eva	
+True	0.198	10	0.018	30	70	19	Male	Eva	
+True	-0.216	1	0.0108	30	70	19	Male	Eva	
+True	0.2052	2	0.0108	30	70	19	Male	Eva	
+True	-0.1944	3	0.0108	30	70	19	Male	Eva	
+True	0.1836	4	0.0108	30	70	19	Male	Eva	
+True	-0.1728	5	0.0108	30	70	19	Male	Eva	
+True	0.162	6	0.0108	30	70	19	Male	Eva	
+True	-0.1512	7	0.0108	30	70	19	Male	Eva	
+True	0.1404	8	0.0108	30	70	19	Male	Eva	
+True	-0.1296	9	0.0108	30	70	19	Male	Eva	
+True	0.1188	10	0.0108	30	70	19	Male	Eva	
+True	-0.1296	1	0.006480001	30	70	19	Male	Eva	
+True	0.12312	2	0.006480001	30	70	19	Male	Eva	
+True	-0.11664	3	0.006480001	30	70	19	Male	Eva	
+True	0.11016	4	0.006480001	30	70	19	Male	Eva	
+True	-0.10368	5	0.006480001	30	70	19	Male	Eva	
+True	0.09720001	6	0.006480001	30	70	19	Male	Eva	
+True	-0.09072001	7	0.006480001	30	70	19	Male	Eva	
+True	0.08424001	8	0.006480001	30	70	19	Male	Eva	
+True	-0.07776001	9	0.006480001	30	70	19	Male	Eva	
+True	0.07128001	10	0.006480001	30	70	19	Male	Eva	
+True	-0.07776001	1	0.003888001	30	70	19	Male	Eva	
+True	0.07387201	2	0.003888001	30	70	19	Male	Eva	
+True	-0.069984	3	0.003888001	30	70	19	Male	Eva	
+True	0.066096	4	0.003888001	30	70	19	Male	Eva	
+True	-0.062208	5	0.003888001	30	70	19	Male	Eva	
+True	0.05832	6	0.003888001	30	70	19	Male	Eva	
+True	-0.054432	7	0.003888001	30	70	19	Male	Eva	
+True	0.050544	8	0.003888001	30	70	19	Male	Eva	
+True	-0.046656	9	0.003888001	30	70	19	Male	Eva	
+True	0.042768	10	0.003888001	30	70	19	Male	Eva	
+True	-0.04665601	1	0.002332801	30	70	19	Male	Eva	
+True	0.04432321	2	0.002332801	30	70	19	Male	Eva	
+True	-0.04199041	3	0.002332801	30	70	19	Male	Eva	
+True	0.03965761	4	0.002332801	30	70	19	Male	Eva	
+True	-0.03732481	5	0.002332801	30	70	19	Male	Eva	
+True	0.03499201	6	0.002332801	30	70	19	Male	Eva	
+True	-0.03265921	7	0.002332801	30	70	19	Male	Eva	
+True	0.03032641	8	0.002332801	30	70	19	Male	Eva	
+True	-0.02799361	9	0.002332801	30	70	19	Male	Eva	
+True	0.02566081	10	0.002332801	30	70	19	Male	Eva	
+True	-0.02799361	1	0.00139968	30	70	19	Male	Eva	
+True	0.02659393	2	0.00139968	30	70	19	Male	Eva	
+True	-0.02519424	3	0.00139968	30	70	19	Male	Eva	
+True	0.02379456	4	0.00139968	30	70	19	Male	Eva	
+True	-0.02239488	5	0.00139968	30	70	19	Male	Eva	
+False	0.0209952	5	0.00139968	30	70	19	Male	Eva	
+True	-0.01959552	6	0.00139968	30	70	19	Male	Eva	
+False	0.01819584	6	0.00139968	30	70	19	Male	Eva	
+True	-0.01679616	7	0.00139968	30	70	19	Male	Eva	
+True	0.01539648	8	0.00139968	30	70	19	Male	Eva	
+True	-0.01679616	1	0.0008398083	30	70	19	Male	Eva	
+True	0.01595636	2	0.0008398083	30	70	19	Male	Eva	
+True	-0.01511655	3	0.0008398083	30	70	19	Male	Eva	
+True	0.01427674	4	0.0008398083	30	70	19	Male	Eva	
+True	-0.01343693	5	0.0008398083	30	70	19	Male	Eva	
+True	0.01259712	6	0.0008398083	30	70	19	Male	Eva	
+True	-0.01175732	7	0.0008398083	30	70	19	Male	Eva	
+False	0.01091751	7	0.0008398083	30	70	19	Male	Eva	
+True	-0.0100777	8	0.0008398083	30	70	19	Male	Eva	
+True	0.009237891	9	0.0008398083	30	70	19	Male	Eva	
+True	-0.0100777	1	0.000503885	30	70	19	Male	Eva	
+True	0.009573814	2	0.000503885	30	70	19	Male	Eva	
+True	-0.00906993	3	0.000503885	30	70	19	Male	Eva	
+True	0.008566045	4	0.000503885	30	70	19	Male	Eva	
+True	-0.008062161	5	0.000503885	30	70	19	Male	Eva	
+True	0.007558275	6	0.000503885	30	70	19	Male	Eva	
+True	-0.00705439	7	0.000503885	30	70	19	Male	Eva	
+False	0.006550505	7	0.000503885	30	70	19	Male	Eva	
+True	-0.00604662	8	0.000503885	30	70	19	Male	Eva	
+True	0.005542735	9	0.000503885	30	70	19	Male	Eva	
+True	-0.00604662	1	0.000302331	30	70	19	Male	Eva	
+True	0.005744289	2	0.000302331	30	70	19	Male	Eva	
+True	-0.005441958	3	0.000302331	30	70	19	Male	Eva	
+True	0.005139627	4	0.000302331	30	70	19	Male	Eva	
+False	-0.004837296	4	0.000302331	30	70	19	Male	Eva	
+True	0.004534964	5	0.000302331	30	70	19	Male	Eva	
+False	-0.004232633	5	0.000302331	30	70	19	Male	Eva	
+False	0.003930302	5	0.000302331	30	70	19	Male	Eva	
+True	-0.003627971	6	0.000302331	30	70	19	Male	Eva	
+False	0.00332564	6	0.000302331	30	70	19	Male	Eva	
+True	-0.00604662	1	0.000302331	30	70	19	Male	Eva	
+False	0.005744289	1	0.000302331	30	70	19	Male	Eva	
+False	-0.005441958	1	0.000302331	30	70	19	Male	Eva	
+True	0.005139627	2	0.000302331	30	70	19	Male	Eva	
+False	-0.004837296	2	0.000302331	30	70	19	Male	Eva	
+True	0.004534964	3	0.000302331	30	70	19	Male	Eva	
+True	-0.004232633	4	0.000302331	30	70	19	Male	Eva	
+True	0.003930302	5	0.000302331	30	70	19	Male	Eva	
+True	-0.003627971	6	0.000302331	30	70	19	Male	Eva	
+False	0.00332564	6	0.000302331	30	70	19	Male	Eva	
+False	-0.00604662	0	0.000302331	30	70	19	Male	Eva	
+True	0.005744289	1	0.000302331	30	70	19	Male	Eva	
+True	-0.005441958	2	0.000302331	30	70	19	Male	Eva	
+False	0.005139627	2	0.000302331	30	70	19	Male	Eva	
+False	-0.004837296	2	0.000302331	30	70	19	Male	Eva	
+True	0.004534964	3	0.000302331	30	70	19	Male	Eva	
+True	-0.004232633	4	0.000302331	30	70	19	Male	Eva	
+True	0.003930302	5	0.000302331	30	70	19	Male	Eva	
+False	-0.003627971	5	0.000302331	30	70	19	Male	Eva	
+True	0.00332564	6	0.000302331	30	70	19	Male	Eva	
+True	-0.00604662	1	0.000302331	30	70	19	Male	Eva	
+True	0.005744289	2	0.000302331	30	70	19	Male	Eva	
+True	-0.005441958	3	0.000302331	30	70	19	Male	Eva	
+False	0.005139627	3	0.000302331	30	70	19	Male	Eva	
+True	-0.004837296	4	0.000302331	30	70	19	Male	Eva	
+False	0.004534964	4	0.000302331	30	70	19	Male	Eva	
+True	-0.004232633	5	0.000302331	30	70	19	Male	Eva	
+False	0.003930302	5	0.000302331	30	70	19	Male	Eva	
+True	-0.003627971	6	0.000302331	30	70	19	Male	Eva	
+False	0.00332564	6	0.000302331	30	70	19	Male	Eva	
+True	1	1	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.95	2	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	0.9	3	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.85	4	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	0.8	5	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.7499999	6	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	0.6999999	7	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.6499999	8	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	0.5999999	9	0.05	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.5499999	10	0.05	31	66	19	Female	Anirwin	Wears glasses 
+False	0.6	0	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.5700001	1	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	0.5400001	2	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.5100001	3	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	0.4800001	4	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.4500001	5	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	0.4200001	6	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.3900001	7	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	0.3600001	8	0.03	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.3300001	9	0.03	31	66	19	Female	Anirwin	Wears glasses 
+False	0.36	0	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.342	1	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	0.324	2	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.306	3	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	0.288	4	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.27	5	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	0.252	6	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.234	7	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	0.216	8	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.198	9	0.018	31	66	19	Female	Anirwin	Wears glasses 
+True	0.216	1	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.2052	2	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	0.1944	3	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.1836	4	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+False	0.1728	4	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.162	5	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	0.1512	6	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.1404	7	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	0.1296	8	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.1188	9	0.0108	31	66	19	Female	Anirwin	Wears glasses 
+False	0.1296	0	0.006480001	31	66	19	Female	Anirwin	Wears glasses 
+True	-0.12312	1	0.006480001	31	66	19	Female	Anirwin	Wears glasses 
+True	0.11664	2	0.006480001	31	66	19	Female	Anirwin	Wears glasses 
+False	1	0	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.95	1	0.05	32	69	19	Male	Anirwin	Experienced VR before
+False	0.9	1	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.85	2	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	0.8	3	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.7499999	4	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	0.6999999	5	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.6499999	6	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	0.5999999	7	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.5499999	8	0.05	32	69	19	Male	Anirwin	Experienced VR before
+True	0.6	1	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.5700001	2	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	0.5400001	3	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.5100001	4	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	0.4800001	5	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.4500001	6	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	0.4200001	7	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.3900001	8	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	0.3600001	9	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.3300001	10	0.03	32	69	19	Male	Anirwin	Experienced VR before
+True	0.36	1	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.342	2	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	0.324	3	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.306	4	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	0.288	5	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.27	6	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	0.252	7	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.234	8	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	0.216	9	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.198	10	0.018	32	69	19	Male	Anirwin	Experienced VR before
+True	0.216	1	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.2052	2	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+False	0.1944	2	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.1836	3	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	0.1728	4	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.162	5	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	0.1512	6	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.1404	7	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+False	0.1296	7	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.1188	8	0.0108	32	69	19	Male	Anirwin	Experienced VR before
+True	0.1296	1	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.12312	2	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.11664	2	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.11016	3	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.10368	3	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.09720001	4	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.09072001	4	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.08424001	5	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	0.07776001	6	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.07128001	7	0.006480001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.07776001	0	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.07387201	1	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.069984	1	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.066096	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.062208	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.05832	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.054432	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.050544	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	0.046656	3	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.042768	3	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.07776001	0	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.07387201	1	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	0.069984	2	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.066096	3	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.062208	3	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.05832	4	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.054432	4	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.050544	5	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	0.046656	6	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.042768	7	0.003888001	32	69	19	Male	Anirwin	Experienced VR before
+False	0.04665601	0	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.04432321	0	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	0.04199041	0	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.03965761	0	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.03732481	1	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.03499201	1	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.03265921	2	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.03032641	3	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.02799361	4	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.02566081	4	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.04665601	1	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.04432321	2	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.04199041	3	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.03965761	4	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.03732481	5	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.03499201	6	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	0.03265921	6	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.03032641	7	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	0.02799361	8	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.02566081	9	0.002332801	32	69	19	Male	Anirwin	Experienced VR before
+False	0.02799361	0	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.02659393	1	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	0.02519424	2	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.02379456	2	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	0.02239488	3	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.0209952	4	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01959552	5	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.01819584	5	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01679616	6	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01539648	7	0.00139968	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01679616	1	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01595636	2	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01511655	3	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01427674	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.01343693	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.01259712	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.01175732	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.01091751	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.0100777	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.009237891	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.01679616	0	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01595636	1	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01511655	2	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	-0.01427674	2	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.01343693	2	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01259712	3	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	0.01175732	4	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.01091751	5	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+False	0.0100777	5	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-0.009237891	6	0.0008398083	32	69	19	Male	Anirwin	Experienced VR before
+True	-1	1	0.05				Male		
